@@ -26,5 +26,5 @@ I plan to build a free SAT preparation website with a Java backend that provides
 - ACT and AP exam preparation.
 - Personalized study plans and interactive AI tutoring.
 
-## xProject Documentation:
+## Project Documentation:
 - The Eisenhower Matrix and system diagram are located in the docs/ folder.
