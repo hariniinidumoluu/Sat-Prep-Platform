@@ -1,0 +1,160 @@
+M1Q1
+1
+Linear Equations
+A ride-share service charges a $4 fee plus $2.50 per mile. If the total charge is $24, how many miles was the ride?
+7
+8
+9
+10
+B
+Subtract the fixed $4 fee from the total $24, then divide the remaining $20 by the cost per mile ($2.50) to find the distance traveled.
+M1Q2
+1
+Linear Equations
+The line in the xy-plane passes through (2, 5) and (6, 13). What is the slope of the line?
+1/2
+1
+2
+4
+C
+Use the slope formula: subtract the y-values and divide by the difference in x-values. (13-5) / (6-2) = 2.
+M1Q3
+1
+Percentages
+A school has 240 students in a grade. If 35% of them participate in a club, how many students participate?
+72
+78
+80
+84
+D
+Convert 35% to 0.35, then multiply by 240 to get 84 students.
+M1Q4
+1
+Systems of Equations 
+The system of equations is 2x + y = 16 and x − y = 2. What is the value of x + y?
+8
+9
+10
+12
+C 
+Add the equations to eliminate y, giving 3x = 18. Then x = 6 and y = 4, so x + y = 10.
+M1Q5
+1
+Quadratic Equations
+What is the smaller solution to the equation x^2 − 9x + 20 = 0?
+3
+4
+5
+9
+B
+Factor the quadratic as (x - 4)(x - 5) = 0. The smaller solution is 4.
+M1Q6
+1
+Statistics 
+Number of siblings reported by 20 students: 0 siblings (4 students), 1 sibling (6 students), 2 siblings (8 students), and 3 siblings (2 students). What is the mean number of siblings per student?
+1.4
+1.5
+1.6
+1.8
+A
+Multiply each number of siblings by its frequency, add the results, then divide by the 20 students: 28 / 20 = 1.4.
+M1Q7
+1
+Geometry
+A circle has a radius of 5 centimeters. What is its area, in square centimeters?
+10π
+25π
+50π
+100π
+B
+Use the area formula A = πr^2 with r = 5. The area is 25π.
+M1Q8
+1
+Quadratic Functions
+The function g is defined by g(x) = (x − 3)^2 − 8. What is the minimum value of g(x)?
+-8
+-3
+3
+8
+A
+A squared term cannot be negative. Its smallest value is 0, so (x - 3)^2 - 8 has a minimum of -8.
+M2Q1
+2
+Probability
+Of 120 students, 30 are in the school band, 20 are in drama, and 10 are in both. If a student in the band is selected at random, what is the probability that the student is also in drama?
+1/12
+1/4
+1/3
+1/2
+C
+Of the 30 band students, 10 are also in drama. The probability is 10 / 30 = 1 / 3.
+M2Q2
+2
+Percent Change 
+A town’s population increased by 20% one year and then decreased by 20% the next year. Compared with the original population, what was the overall change?
+4% decrease 
+4% increase 
+No change
+40% decrease
+A
+Multiply the original amount by 1.20 and then 0.80. The result is 0.96 times the original, a 4% decrease.
+M2Q3
+2
+Exponential Functions
+Here are the values of an exponential function: f(0) = 12, f(1) = 18, f(2) = 27, and f(3) = 40.5. By what percent does the output increase when x increases by 1?
+50%
+25%
+75%
+150%
+A 
+Divide each output by the previous one: 18 / 12 = 1.5. A growth factor of 1.5 means a 50% increase.
+M2Q4
+2
+Trigonometry
+In a right triangle, the lengths of the legs are 7 and 24. For the acute angle opposite the leg of length 7, what is the sine of the angle?
+24/25
+7/25
+7/24
+24/7
+B 
+Use the Pythagorean theorem to find the hypotenuse, 25. Sine is opposite / hypotenuse, so it is 7/25.
+M2Q5
+2
+Parallel Lines 
+The lines y = (k − 1)x + 4 and y = 3x − 2 have no points of intersection. What is the value of k?
+2
+3
+4
+5
+C 
+Lines with no intersection must have equal slopes and different y-intercepts. Set k - 1 = 3, so k = 4.
+M2Q6
+2
+Circles
+A circle in the xy-plane has center (2, −3) and passes through the point (7, 9). Which equation represents the circle?
+(x + 2)^2 + (y − 3)^2 = 169
+(x - 2)^2 + (y + 3)^2 = 169
+(x - 2)^2 + (y + 3)^2 = 25
+(x + 2)^2 + (y - 3)^2 = 25
+B
+Use (x - h)^2 + (y - k)^2 = r^2. The center is (2, -3) and r^2 = (7 - 2)^2 + (9 + 3)^2 = 169.
+M2Q7
+2
+Quadratic Functions
+A quadratic function f has zeros at x = −2 and x = 6. If f(0) = −24, what is f(1)?
+-36
+-32
+-30
+-24
+C
+Write f(x) = a(x + 2)(x - 6). Use f(0) = -24 to find a = 2, then calculate f(1) = -30.
+M2Q8
+2
+Rational Equations
+How many real solutions does the equation 2/(x − 1) = (x + 3)/(x^2 − 1) have?
+Two
+One
+Infinitely many
+Zero
+D
+Exclude x = 1 and x = -1 because they make denominators zero. Solving gives x = 1, which is invalid, so there are no solutions.
