@@ -2,10 +2,83 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>SAT Reading &amp; Writing Practice</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>SAT Reading &amp; Writing Dashboard</title>
+
+        <style>
+            body {
+                margin: 0;
+                padding: 64px 24px;
+                background-color: #eaf4fc;
+                color: #354b63;
+                font-family: Arial, sans-serif;
+            }
+            main {
+                max-width: 620px;
+                margin: 0 auto;
+                padding: 32px;
+                background-color: #fffcf6;
+                border: 1px solid #c9deef;
+                border-radius: 16px;
+            }
+            h1, h2 {
+                color: #163B61;
+            }
+            h1 {
+                margin-top: 0;
+            }
+            p {
+                line-height: 1.5;
+            }
+
+            section {
+                padding: 16px 0;
+                border-bottom: 1px solid #c9deef;
+            }
+
+            a {
+                color: #245f9e;
+            }
+
+            .back-link {
+                display: inline-block;
+                margin-top: 24px;
+                padding: 10px 16px;
+                background-color: #eaf4fc;
+                color: #163b61;
+                border: 1px solid #c9deef;
+                border-radius: 8px;
+                text-decoration: none;
+            }
+            .back-link:hover, .back-link:focus-visible {
+                background-color: #c9deef;
+            }
+        </style>
     </head>
     <body>
-        <h1>SAT Reading &amp; Writing Practice</h1>
-        <a href="/">Back to home</a>
+        <main>
+            <h1>SAT Reading &amp; Writing Dashboard</h1>
+            <p>Start with the diagnostic to explore your strengths and areas to practice.</p>
+
+            <section>
+                <h2>Reading &amp; Writing Diagnostic Assessment</h2>
+                <p>Answer 16 questions and review your score and explanations.</p>
+                <a href="/reading-writing-diagnostic">Take Reading &amp; Writing Diagnostic</a>
+            </section>
+
+            <section>
+                <h2>Practice by Topic</h2>
+                <p>Information and Ideas, Craft and Structure, Expression of Ideas, and Standard English Conventions.</p>
+                <a href="/reading-writing-topics">Choose a topic</a>
+            </section>
+
+            <section>
+                <h2>View Progress</h2>
+                <p>Review previous scores and track improvement.</p>
+                <p>Coming soon.</p>
+            </section>
+
+            <a class="back-link" href="/">&larr; Back to home</a>
+        </main>
     </body>
 </html>

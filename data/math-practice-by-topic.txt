@@ -1,0 +1,384 @@
+ALG01
+1
+Algebra
+Linear Equations in One Variable
+Easy
+Seven less than twice a number is 19. What is the number?
+6
+12
+13
+26
+C
+Let x be the number. The equation is 2x - 7 = 19. Adding 7 gives 2x = 26, so x = 13.
+ALG02
+1
+Algebra
+Interpreting Linear Functions
+Easy
+A bicycle rental shop uses C(h) = 14 + 6h to model the total cost, in dollars, of renting a bicycle for h hours. What is the initial fee, in dollars?
+6
+8
+14
+20
+C
+The initial fee is the cost when h = 0. Substituting gives C(0) = 14 + 6(0) = 14 dollars.
+ALG03
+1
+Algebra
+Systems of Linear Equations
+Medium
+The system of equations 3x + 2y = 31 and x - y = 2 has solution (x, y). What is the value of x?
+5
+6
+7
+8
+C
+From x - y = 2, we get x = y + 2. Substitute into the first equation: 3(y + 2) + 2y = 31, so 5y = 25 and y = 5. Therefore, x = 7.
+ALG04
+1
+Algebra
+Linear Inequalities
+Medium
+A student has earned 28 points and receives 9 additional points for each completed challenge. The student needs at least 86 points. What is the least number of additional challenges the student must complete?
+6
+7
+8
+9
+B
+Let n be the number of challenges. The inequality is 28 + 9n >= 86, so 9n >= 58 and n >= 58/9. Because n must be a whole number, at least 7 challenges are needed.
+ALG05
+1
+Algebra
+Slope and Intercepts
+Medium
+A linear function f has f(-3) = 4 and f(5) = 20. What is the value of f(0)?
+6
+8
+10
+12
+C
+The slope is (20 - 4)/(5 - (-3)) = 16/8 = 2. Write f(x) = 2x + b. Since f(-3) = 4, we have -6 + b = 4, so b = 10 and f(0) = 10.
+ALG06
+1
+Algebra
+Perpendicular Lines and Coordinate Geometry
+Medium
+Line l passes through (-1, 8) and (5, -4). Line m is perpendicular to line l and passes through (2, 3). What is the y-intercept of line m?
+1
+2
+3
+4
+B
+The slope of line l is (-4 - 8)/(5 - (-1)) = -12/6 = -2, so the perpendicular slope is 1/2. Line m has equation y - 3 = (1/2)(x - 2), which simplifies to y = (1/2)x + 2. Its y-intercept is 2.
+ALG07
+1
+Algebra
+Systems of Linear Equations and Constraints
+Hard
+A streaming service offers two plans. Plan A charges a $24 setup fee and $9 per month, while Plan B charges a $6 setup fee and $12 per month. A customer wants to pay no more than $150 in total. For how many positive whole numbers of months is Plan A both less expensive than Plan B and within the budget?
+6
+7
+8
+9
+C
+Plan A is cheaper when 24 + 9m < 6 + 12m, which gives m > 6. The Plan A budget requires 24 + 9m <= 150, giving m <= 14. The positive integers from 7 through 14 are allowed, so there are 8 possible month counts.
+ALG08
+1
+Algebra
+Systems of Linear Inequalities in Context
+Hard
+A conference sells student passes and adult passes. The number of adult passes sold is 10 less than three times the number of student passes sold. At least 60 student passes are sold, and no more than 250 passes are sold in total. What is the greatest possible number of adult passes sold?
+170
+175
+180
+185
+D
+Let s be student passes and a be adult passes. Then a = 3s - 10 and a + s <= 250. Substituting gives 4s - 10 <= 250, so s <= 65. Since a increases with s, its maximum occurs when s = 65. Then a = 3(65) - 10 = 185.
+ADV01
+1
+Advanced Math
+Zeros of Quadratic Functions
+Easy
+What is the positive solution of x^2 + 2x - 35 = 0?
+5
+7
+-5
+-7
+A
+Factor the equation as (x + 7)(x - 5) = 0. The solutions are -7 and 5, and the positive solution is 5.
+ADV02
+1
+Advanced Math
+Exponential Growth Models
+Easy
+The function N(t) = 200(1.08)^t models a population t years after it is first measured. What is the annual percent increase in the population?
+0.8%
+8%
+80%
+108%
+B
+An exponential growth factor of 1.08 represents 100% + 8% of the previous year's population, so the annual increase is 8%.
+ADV03
+1
+Advanced Math
+Quadratic Functions and Symmetry
+Medium
+A quadratic function f has x-intercepts at -2 and 8, and f(0) = -32. What is the value of f(3)?
+-50
+-40
+-32
+-20
+A
+Since the roots are -2 and 8, write f(x) = a(x + 2)(x - 8). From f(0) = -32, we get -16a = -32, so a = 2. Then f(3) = 2(5)(-5) = -50.
+ADV04
+1
+Advanced Math
+Rational Equations and Domain Restrictions
+Medium
+What is the solution to the equation (x + 5)/(x - 1) = 3, where x is not equal to 1?
+2
+3
+4
+5
+C
+Multiply both sides by x - 1, which is nonzero: x + 5 = 3(x - 1). Thus x + 5 = 3x - 3, so 8 = 2x and x = 4. Since 4 is not excluded, it is a valid solution.
+ADV05
+1
+Advanced Math
+Radical Equations
+Medium
+What is the solution to sqrt(x + 11) = x - 1?
+-2
+2
+5
+10
+C
+The right side must be nonnegative, so x >= 1. Squaring gives x + 11 = x^2 - 2x + 1, or x^2 - 3x - 10 = 0. Factoring gives x = 5 or x = -2. Only x = 5 satisfies the original equation because sqrt(16) = 4 = 5 - 1.
+ADV06
+1
+Advanced Math
+Exponential Models and Time Intervals
+Medium
+A bacterial population increases by 44% every 2 hours at a constant exponential rate. What is the percent increase over 6 hours?
+72.0%
+98.6%
+144.0%
+198.6%
+D
+Six hours contains three 2-hour intervals. The growth factor is 1.44^3 = 2.985984. Therefore, the percent increase is (2.985984 - 1)(100%) = 198.5984%, which rounds to 198.6%.
+ADV07
+1
+Advanced Math
+Polynomial Functions and Unknown Constants
+Hard
+A cubic polynomial f is defined by f(x) = (x - 2)(x + 3)(x - k), where k is a constant. If f(0) = -36, what is f(4) - f(-4)?
+128
+140
+176
+252
+A
+Since f(0) = (-2)(3)(-k) = 6k = -36, k = -6. Thus f(x) = (x - 2)(x + 3)(x + 6). Then f(4) = (2)(7)(10) = 140 and f(-4) = (-6)(-1)(2) = 12. Therefore, f(4) - f(-4) = 128.
+ADV08
+1
+Advanced Math
+Quadratic Discriminant and Integer Parameters
+Hard
+The equation x^2 + (k - 4)x + 9 = 0 has no real solutions, where k is an integer. How many integer values of k satisfy this condition?
+9
+10
+11
+12
+C
+No real solutions means the discriminant is negative: (k - 4)^2 - 36 < 0. Thus -6 < k - 4 < 6, which becomes -2 < k < 10. The integers -1 through 9 give 11 values.
+PSD01
+1
+Problem-Solving & Data Analysis
+Ratios and Proportions
+Easy
+In a box, the ratio of red beads to blue beads is 3:5. If the box has 64 beads in total and contains only red and blue beads, how many beads are red?
+16
+24
+40
+48
+B
+There are 3 + 5 = 8 equal ratio parts. Each part represents 64/8 = 8 beads. The number of red beads is 3(8) = 24.
+PSD02
+1
+Problem-Solving & Data Analysis
+Mean of a Data Set
+Easy
+What is the mean of the five numbers 6, 8, 9, 11, and 16?
+9
+10
+11
+12
+B
+Add the five values to get 6 + 8 + 9 + 11 + 16 = 50. Divide by 5 to obtain the mean, 10.
+PSD03
+1
+Problem-Solving & Data Analysis
+Statistical Inference
+Medium
+A researcher randomly selects 120 tenth-grade students from all tenth-grade students in a school district and asks about their preferred school lunch. To which population can the results most reasonably be generalized?
+All students in the district
+All tenth-grade students in the district
+All tenth-grade students in the state
+Only the 120 surveyed students
+B
+The random sample was drawn from tenth-grade students in the district. Therefore, it can reasonably represent that population, but not all grades or students outside the district.
+PSD04
+1
+Problem-Solving & Data Analysis
+Comparing Standard Deviations
+Medium
+Data set A is 3, 5, 7, 9, 11. Data set B is 6, 6, 7, 8, 8. Both sets have mean 7. Which statement is true?
+Data set A has the smaller standard deviation.
+Data set B has the smaller standard deviation.
+The two standard deviations are equal.
+The standard deviations cannot be compared.
+B
+Standard deviation measures spread around the mean. Data set B is more tightly clustered around 7, while data set A extends from 3 to 11. Therefore, data set B has the smaller standard deviation.
+PSD05
+1
+Problem-Solving & Data Analysis
+Conditional Probability
+Medium
+At a school, 75 students ride the bus, 45 students walk, and 15 students both ride the bus and walk at least once during the week. If one bus rider is selected at random, what is the probability that the student also walks?
+1/8
+1/5
+1/4
+1/3
+B
+Among the 75 bus riders, 15 also walk. The probability is therefore 15/75 = 1/5.
+PSD06
+1
+Problem-Solving & Data Analysis
+Unit Rates and Combined Work
+Medium
+Printer A produces 90 pages in 6 minutes, and printer B produces 80 pages in 8 minutes. If both printers run together at their constant rates, how many minutes are needed to print 300 pages?
+10
+12
+15
+20
+B
+Printer A produces 90/6 = 15 pages per minute, and printer B produces 80/8 = 10 pages per minute. Together they print 25 pages per minute. Printing 300 pages takes 300/25 = 12 minutes.
+PSD07
+1
+Problem-Solving & Data Analysis
+Conditional Probability and Survey Data
+Hard
+At a school, 40% of students participate in a club. Of the students who participate in a club, 75% also play a sport. Of the students who do not participate in a club, 20% play a sport. If a student who plays a sport is selected at random, what is the probability that the student participates in a club?
+3/7
+5/7
+3/5
+5/8
+B
+Out of 100 students, 40 participate in clubs and 60 do not. Of the club participants, 0.75(40) = 30 play sports. Of the others, 0.20(60) = 12 play sports. Among the 42 sports participants, 30 are in clubs. The probability is 30/42 = 5/7.
+PSD08
+1
+Problem-Solving & Data Analysis
+Successive Percent Changes
+Hard
+A store increases the price of an item by 20% and then reduces the increased price by p%. The final price is 6% greater than the original price. What is p?
+10%
+11 2/3%
+12%
+14%
+B
+Let the original price be 100 dollars. After the increase, it is 120 dollars, and the final price is 106 dollars. The decrease is 14 dollars out of 120 dollars, so p = 14/120 times 100% = 11 2/3%.
+GEO01
+1
+Geometry & Trigonometry
+Circumference of Circles
+Easy
+A circle has a radius of 7 centimeters. What is its circumference, in centimeters?
+7π
+14π
+28π
+49π
+B
+Circumference is 2πr. With r = 7, the circumference is 2π(7) = 14π centimeters.
+GEO02
+1
+Geometry & Trigonometry
+Area of Trapezoids
+Easy
+A trapezoid has parallel bases measuring 8 and 14 units and a height of 5 units. What is its area, in square units?
+45
+50
+55
+60
+C
+The area of a trapezoid is one-half the sum of the base lengths times the height: (1/2)(8 + 14)(5) = 55 square units.
+GEO03
+1
+Geometry & Trigonometry
+Similar Figures and Area Ratios
+Medium
+Two triangles are similar. A side of the larger triangle is 4/3 the length of the corresponding side of the smaller triangle. If the smaller triangle has area 45 square units, what is the larger triangle's area?
+60
+70
+80
+90
+C
+For similar figures, area scales by the square of the side-length ratio. Thus the larger area is 45(4/3)^2 = 45(16/9) = 80 square units.
+GEO04
+1
+Geometry & Trigonometry
+Volume and Similar Solids
+Medium
+Two similar right circular cylinders have heights of 4 inches and 6 inches. The smaller cylinder has a volume of 32π cubic inches. What is the larger cylinder’s volume, in cubic inches?
+48π
+72π
+96π
+108π
+D
+The linear scale factor is 6/4 = 3/2. For similar solids, volume scales by the cube of the linear factor. The larger volume is 32π(3/2)^3 = 32π(27/8) = 108π.
+GEO05
+1
+Geometry & Trigonometry
+Trigonometric Ratios
+Medium
+In a right triangle, an acute angle θ has an opposite side of length 5 and an adjacent side of length 12. What is cos(θ)?
+5/13
+12/13
+5/12
+13/12
+B
+The hypotenuse is sqrt(5^2 + 12^2) = 13. Cosine is adjacent over hypotenuse, so cos(θ) = 12/13.
+GEO06
+1
+Geometry & Trigonometry
+Arc Length of Circles
+Medium
+A circle has radius 9 centimeters. What is the length, in centimeters, of an arc with central angle 80 degrees?
+2π
+3π
+4π
+8π
+C
+Arc length is the fraction 80/360 of the full circumference 2π(9) = 18π. Therefore, the length is (80/360)(18π) = 4π centimeters.
+GEO07
+1
+Geometry & Trigonometry
+Pythagorean Theorem with Algebra
+Hard
+A rectangular garden has a diagonal of 25 feet. Its length is 5 feet greater than its width. What is its area, in square feet?
+250
+275
+300
+350
+C
+Let w be the width, so the length is w + 5. By the Pythagorean theorem, w^2 + (w + 5)^2 = 625. Simplifying gives w^2 + 5w - 300 = 0, or (w + 20)(w - 15) = 0. The positive width is 15 and the length is 20, so the area is 300 square feet.
+GEO08
+1
+Geometry & Trigonometry
+Circles and Coordinate Geometry
+Hard
+A circle has center (2, -1) and passes through (8, 7). The vertical line x = 8 intersects the circle at two points. What is the distance between these points?
+12
+14
+16
+18
+C
+The circle has radius squared (8 - 2)^2 + (7 - (-1))^2 = 36 + 64 = 100. On x = 8, the horizontal distance from the center is 6. Thus the vertical distance from the center to either intersection is sqrt(100 - 36) = 8, giving a total chord length of 16.
