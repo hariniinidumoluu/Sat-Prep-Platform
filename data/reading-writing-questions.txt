@@ -1,0 +1,192 @@
+RW1Q1
+1
+Information and Ideas
+Central Ideas and Details
+Easy
+In several neighborhoods, volunteers have converted unused patches of pavement into small gardens. The gardens provide vegetables, but residents report valuing them just as much as places to meet neighbors and organize events. Which choice best states the main idea of the text?
+The gardens have produced more vegetables than residents expected.
+The gardens serve both practical and social purposes for residents.
+Most residents would rather organize events than grow food.
+Paved spaces are unsuitable for community activities.
+B
+The passage describes both food production and opportunities for neighbors to gather, so the gardens serve practical and social purposes.
+RW1Q2
+1
+Craft and Structure
+Words in Context
+Easy
+Because the trail had not been surveyed since the storm, the ranger described the new map as provisional and advised hikers to check for posted updates. As used in the text, what does "provisional" most nearly mean?
+Temporary and subject to revision
+Detailed and difficult to follow
+Officially approved without conditions
+Drawn from personal memory
+A
+The ranger expects the map may change after a new survey, so provisional means temporary and subject to revision.
+RW1Q3
+1
+Expression of Ideas
+Transitions
+Easy
+The new library has fewer printed reference books than the old building did. ______ it provides far more computers and quiet study rooms. Which choice completes the text with the most logical transition?
+For instance,
+Nevertheless,
+Similarly,
+Consequently,
+B
+Nevertheless signals the contrast between having fewer printed reference books and offering more computers and study space.
+RW1Q4
+1
+Standard English Conventions
+Subject-Verb Agreement
+Easy
+A collection of letters written by the expedition members ______ on display at the town museum this month. Which choice completes the text so that it conforms to the conventions of Standard English?
+are
+have been
+is
+were
+C
+The singular subject collection requires the singular verb is. The plural word letters is part of a modifying phrase.
+RW1Q5
+1
+Information and Ideas
+Inferences
+Medium
+A school installed shade cloth above half of its outdoor seedlings while leaving the other half in direct sunlight. Both groups received the same water and soil. After a week of unusually hot weather, fewer shaded seedlings had wilted. Which conclusion is best supported by the text?
+Seedlings cannot survive outdoors without shade.
+Differences in watering caused the shaded seedlings to wilt less.
+Shade cloth increases soil nutrients.
+Providing shade may reduce heat-related wilting in these conditions.
+D
+Because the groups had the same soil and water but differed in shade, the results support the possibility that shade reduced wilting under the observed conditions.
+RW1Q6
+1
+Craft and Structure
+Text Structure and Purpose
+Medium
+An engineering team installed porous pavement on a city block to reduce runoff during storms. After installation, measurements showed less runoff than in previous years. But the block also received less rainfall during the observation period, and runoff in nearby blocks without porous pavement declined as well. The engineers therefore called for comparisons conducted during storms of similar intensity. Which choice best describes the function of the third sentence in the text?
+It introduces evidence that complicates a straightforward explanation for the lower runoff.
+It describes how the pavement mechanically allows rainwater to pass through it.
+It establishes that the pavement was installed after the nearby blocks were studied.
+It demonstrates that the runoff measurements taken before installation were inaccurate.
+A
+The third sentence identifies changing rainfall and an analogous decline in untreated blocks, both of which complicate attributing the change solely to the pavement. It does not explain a mechanism, chronology, or faulty measurements.
+RW1Q7
+1
+Expression of Ideas
+Rhetorical Synthesis: Change Over Time
+Medium
+A student has taken these notes: Harbor City opened its first public bike-share system in 2015 with stations concentrated downtown. In 2019, the city expanded the system to university neighborhoods. A 2023 expansion added stations near several transit hubs in outer districts. Officials said the most recent expansion aimed to help residents combine cycling with bus and train trips. The student wants to emphasize both how the system expanded geographically and how its purpose broadened. Which choice best uses the notes to accomplish this goal?
+The bike-share system opened downtown in 2015 and expanded to university neighborhoods in 2019.
+By 2023, Harbor City had added bike-share stations near transit hubs in outer districts to support connections with buses and trains, extending a system first centered downtown.
+Harbor City officials described the 2023 bike-share expansion as an effort to encourage residents to use public transportation.
+The city introduced bike sharing in 2015, added stations in 2019, and had transit hubs in several districts by 2023.
+B
+The choice traces the shift from downtown to outer districts and explains the added aim of connecting cycling with public transit. The other options omit either the geographic change or the expanded purpose.
+RW1Q8
+1
+Standard English Conventions
+Modifier Placement
+Medium
+After examining the satellite images, ______ identified a previously unmapped river channel. Which choice completes the text so that it conforms to the conventions of Standard English?
+a river channel was
+the images were
+there was a team that
+the research team
+D
+The introductory phrase describes who examined the images, so it must be followed by the research team rather than by the images or channel.
+RW2Q1
+2
+Information and Ideas
+Command of Evidence: Experimental Findings
+Hard
+Researchers studying moth navigation proposed that some moths do not simply fly toward the brightest object at night. Instead, the insects may use the pattern of polarized light in the sky to maintain a heading, with artificial lights disrupting that cue. To distinguish the two explanations, the researchers tested moths in two enclosed arenas with equal overall brightness. In one arena the polarization pattern stayed fixed; in the other it rotated slowly, though the intensity of light remained unchanged. Which finding would most directly support the researchers' proposed explanation?
+Moths in both arenas spent more time near the light source than in unlit holding containers.
+Moths in the rotating-pattern arena maintained straighter paths than moths in the fixed-pattern arena.
+Moths in the fixed-pattern arena maintained consistent headings, whereas those in the rotating-pattern arena repeatedly changed direction.
+Moths in both arenas flew farther when the light sources were moved closer to the enclosure walls.
+C
+Only the polarization pattern changed between the equally bright arenas. More stable headings with fixed polarization, and disrupted headings when it rotated, would favor a navigation-cue explanation over attraction to brightness alone.
+RW2Q2
+2
+Craft and Structure
+Cross-Text Connections: Limits of Evidence
+Hard
+Text 1: An environmental historian argues that a sequence of unusually narrow tree rings provides strong evidence that the valley experienced repeated droughts in the eighteenth century. Because water availability often governs tree growth, the historian regards the ring pattern as a record of past climate. Text 2: An ecologist agrees that drought can narrow tree rings but notes that an insect outbreak documented in the valley during the same period might also have reduced growth. The ecologist recommends comparing the rings with sediment records from nearby lakes. How would the ecologist in Text 2 most likely respond to the historian in Text 1?
+By conceding that the tree rings are consistent with drought but questioning whether they establish drought as the sole cause of reduced growth.
+By suggesting that the insect outbreak likely intensified the impact of a drought that the rings already establish.
+By arguing that the tree rings show drought affected the valley but not how frequently it occurred.
+By accepting drought as the most likely explanation and recommending sediment records only to establish its dates more precisely.
+A
+Text 2 accepts the climate connection but identifies another possible cause of narrow rings. Independent sediment evidence could help distinguish these explanations; Text 2 neither rejects the rings nor accepts drought as established.
+RW2Q3
+2
+Craft and Structure
+Words in Context
+Medium
+The archaeologist was careful to qualify her claim that the settlement had been abandoned suddenly: although several buildings showed signs of rapid departure, the evidence from other structures was inconclusive. As used in the text, what does "qualify" most nearly mean?
+Make less absolute by adding a limitation
+Confirm through an independent experiment
+Express with unusually strong confidence
+Replace with an unrelated explanation
+A
+The archaeologist limits the scope of her claim because the evidence is not consistent across all buildings.
+RW2Q4
+2
+Craft and Structure
+Function of a Sentence
+Hard
+A research team examined whether a new bus lane had reduced traffic noise along a busy avenue. Noise measurements collected after the lane opened were indeed lower than measurements from the previous year. During the same period, however, the city also restricted heavy truck deliveries on that avenue. Comparisons with adjacent streets suggested that truck restrictions accounted for some of the change, but the researchers could not isolate an effect of the bus lane. Which choice best describes the function of the third sentence in the overall structure of the text?
+It presents a competing explanation that the researchers must consider when evaluating the observed change.
+It specifies the measurement technique used to determine how much noise the bus lane eliminated.
+It provides evidence that the bus lane increased the number of trucks traveling on adjacent streets.
+It explains why the researchers regarded the newer measurements as less accurate than the earlier ones.
+A
+The third sentence introduces a simultaneous policy change that could also reduce noise. The final sentence then explains why the team could not attribute the observed decline specifically to the bus lane.
+RW2Q5
+2
+Expression of Ideas
+Transitions
+Medium
+Researchers expected the new insulation material to be most effective in cold weather. ______ tests showed its largest energy savings during periods of moderate outdoor temperature, when the heating system switched on and off frequently. Which choice completes the text with the most logical transition?
+Likewise,
+Instead,
+For example,
+Therefore,
+B
+Instead introduces a result that differs from the researchers' original expectation.
+RW2Q6
+2
+Expression of Ideas
+Rhetorical Synthesis: Findings and Limitations
+Hard
+A student has taken these notes: In a pilot study, researchers compared two irrigation methods at neighboring orchards. The orchard using drip irrigation consumed 35% less water per tree than the orchard using sprinklers. Its fruit yield per tree was 8% lower. The orchards differed in soil composition as well as irrigation method. The researchers cautioned that the yield difference could not be attributed to irrigation alone. The student wants to summarize the results while accurately qualifying what the comparison shows. Which choice best accomplishes this goal?
+The orchard using drip irrigation consumed 35% less water per tree and produced 8% less fruit, indicating that the method trades yield for water savings.
+The irrigation methods may differ in water use, but the contrasting soils show that only soil composition can explain the observed yield gap.
+The drip-irrigated orchard used less water and produced less fruit, so researchers concluded that its soil was the primary cause of both differences.
+The drip-irrigated orchard used 35% less water per tree but yielded 8% less fruit; because soil also differed, the study could not establish that irrigation caused the yield gap.
+D
+This choice includes both measured differences and preserves the researchers' stated limitation: differing soil means the yield gap cannot confidently be attributed to irrigation method.
+RW2Q7
+2
+Standard English Conventions
+Punctuation: Complex Lists
+Hard
+The maritime archive contains several kinds of materials: navigation instruments, including compasses and sextants ______ voyage journals, including weather logs and sketches ______ and correspondence, including letters and telegrams. Each answer choice gives the punctuation for the first blank and then the second. Which choice completes the text so that it conforms to the conventions of Standard English?
+; / ;
+, / ,
+; / ,
+, / ;
+A
+The three main list items already contain internal commas. Semicolons separate the items clearly: instruments, including examples; journals, including examples; and correspondence, including examples. Both blanks need semicolons.
+RW2Q8
+2
+Standard English Conventions
+Subject-Verb Agreement with Intervening Clauses
+Hard
+Neither the maps drawn during the initial expedition nor the accounts that local guides compiled decades later ______ sufficient evidence to determine precisely where the lost settlement stood. Which choice completes the text so that it conforms to the conventions of Standard English?
+provides
+has provided
+provide
+was providing
+C
+With neither...nor, the verb agrees with the nearer subject, accounts, which is plural. The plural present-tense verb provide agrees with accounts; the other choices use singular forms.
