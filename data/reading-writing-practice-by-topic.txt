@@ -1,384 +1,520 @@
-RWI01
-1
-Information and Ideas
+reading-writing
+information
 Central Ideas and Details
 Easy
+RWI01
 Some coastal towns are replacing concrete seawalls with planted shorelines. The plants can absorb wave energy and also provide habitats for young fish. However, planted shorelines may not work where waves are exceptionally strong. Which choice best states the main idea of the text?
+4
 Planted shorelines can provide benefits but are not suitable for every coast.
 Concrete seawalls always protect fish habitats more effectively.
 Coastal towns have stopped using concrete seawalls entirely.
 Young fish cannot survive in areas with strong waves.
 A
 The passage identifies benefits of planted shorelines while noting a limitation in particularly strong wave conditions.
-RWI02
-1
-Information and Ideas
+reading-writing
+information
 Inferences
 Easy
+RWI02
 A student noticed that the classroom plants nearest a window leaned toward the light. When the student rotated the pots, the new growth gradually bent toward the window again. Which conclusion is best supported by the observations?
+4
 The plants had stopped growing before the pots were rotated.
 Rotating the pots changed the location of the window.
 The plants grew in a direction influenced by available light.
 Every species of plant must be grown beside a window.
 C
 The direction of new growth changed relative to the pots but continued to point toward the source of light.
-RWI03
-1
-Information and Ideas
+reading-writing
+information
 Command of Evidence: Textual
 Medium
+RWI03
 A historian argues that a village market served as more than a place to buy and sell goods: it was also a place where residents exchanged news. Which finding would most directly support the historian's claim?
+4
 The market contained several stalls that sold grain.
 Residents often traveled long distances to purchase tools at the market.
 Market sellers paid fees to maintain the stalls.
 Accounts from visitors describe residents gathering at the market to discuss events in neighboring villages.
 D
 Reports of residents discussing events directly support the claim that the market was also a center for sharing news.
-RWI04
-1
-Information and Ideas
+reading-writing
+information
 Command of Evidence: Quantitative
 Medium
+RWI04
 A school compared three tutoring methods. Of 40 students using Method A, 30 improved their exam scores; of 60 using Method B, 39 improved; and of 50 using Method C, 35 improved. A researcher claims that Method A had the greatest proportion of students whose scores improved. Which choice best evaluates the claim?
+4
 It is supported because Method A served fewer students than Method B and Method C.
 It is supported because the improvement rates were 75% for A, 65% for B, and 70% for C.
 It is not supported because Method B had the greatest number of students whose scores improved.
 It is not supported because Methods A and C had identical improvement rates.
 B
 The relevant comparison is percentage, not raw count: 30/40 = 75%, 39/60 = 65%, and 35/50 = 70%. Method A has the highest proportion despite Method B having more improved students.
-RWI05
-1
-Information and Ideas
+reading-writing
+information
 Logical Completion
 Medium
+RWI05
 Researchers tested whether a mineral coating could prevent the fading of outdoor murals. Coated and uncoated painted panels were exposed to identical light and rain conditions. After six months, coated panels retained more of their original color. The results suggest that ______ Which choice most logically completes the text?
+4
 the coating may help painted surfaces resist fading under the tested conditions.
 uncoated paintings always fade completely after six months.
 the coating works only when panels are kept indoors.
 light and rain have no influence on painted surfaces.
 A
 The coated panels retained more color under identical exposure, supporting a limited claim that the coating helps resist fading.
-RWI06
-1
-Information and Ideas
+reading-writing
+information
 Evaluating Experimental Design
 Medium
+RWI06
 Researchers reported that students who used a new reading app scored higher on a comprehension test than students who did not. However, participation was voluntary, and students who selected the app had higher reading scores before the study began. Which follow-up design would most directly test whether using the app itself improves comprehension?
+4
 Ask students who already use the app whether they believe it helps them read more quickly.
 Compare this year's voluntary app users with the highest-scoring students from the previous year.
 Randomly assign students with similar starting scores to app and non-app groups, then compare their changes in comprehension scores.
 Give all students the app and compare the number of minutes each student spends using it.
 C
 Random assignment among students with similar baseline scores reduces the selection problem; comparing score changes makes an effect of the app more interpretable than comparing groups with different starting abilities.
-RWI07
-1
-Information and Ideas
+reading-writing
+information
 Evaluating Causal Claims
 Hard
+RWI07
 An ecologist proposed that installing shaded resting platforms along a bird migration route reduces heat stress and thereby increases the number of birds completing the journey. After installation, the number of completed migrations rose. Yet the same season was unusually cool and rainy, and the researchers had no measurements of how often birds actually used the platforms. Which additional finding would most strongly support the proposed mechanism rather than an explanation based only on cooler weather?
+4
 Birds using the route in the cooler season were, on average, larger than birds observed on the route in earlier seasons.
 Birds that used the platforms had lower body temperatures than otherwise comparable birds that passed nearby without stopping, even on days with similar weather.
 The greatest increase in completed migrations occurred in years with the lowest average temperature across the region.
 The platforms were built from materials that remained cooler than the surrounding rocks after sunset.
 B
 Comparing similar birds on days with similar weather isolates platform use more closely and links it to the proposed reduction in heat stress. The other findings do not demonstrate that using the platforms reduced heat stress.
-RWI08
-1
-Information and Ideas
+reading-writing
+information
 Cross-Text Connections: Alternative Explanations
 Hard
+RWI08
 Text 1: A marine biologist argues that a recent rise in the number of fish recorded near restored reefs shows that reef restoration has increased the local fish population. The biologist points to surveys conducted before and after the restoration. Text 2: Another biologist notes that restored reefs may attract fish from nearby damaged habitats without increasing the total number of fish in the region. To distinguish an increase in population from a change in location, this biologist proposes surveying neighboring reefs as well. Which choice best characterizes the relationship between the texts?
+4
 Text 2 accepts the surveys in Text 1 but proposes a way to distinguish two explanations for the increase they recorded.
 Text 2 accepts that fish counts rose but questions whether the surveys measured changes in the diversity of species rather than changes in abundance.
 Text 2 suggests that fish counts at the restored reefs are inaccurate because the neighboring reefs were not surveyed simultaneously.
 Text 2 interprets the higher counts as evidence of regional population growth but disputes whether restoration was the cause.
 A
 Text 2 does not deny that surveys recorded more fish at the restored reefs. It questions whether the increased count reflects additional fish in the region or redistribution of existing fish, and proposes nearby surveys to test this.
-RWC01
-1
-Craft and Structure
+reading-writing
+information
+Central Ideas and Details
+Easy
+RWI09
+The Hillcrest Art Center now offers audio guides in several languages, with commentary recorded by local artists. First-time visitors say the guides make the exhibits easier to understand, while returning visitors say the different perspectives draw attention to details they had missed. Which choice best states the main idea of the text?
+4
+The art center has replaced all of its exhibits with works by local artists.
+Returning visitors understand the exhibits less well than first-time visitors do.
+Audio guides are useful only when visitors have never seen the exhibits before.
+Multilingual audio guides can make exhibits more accessible and enrich visitors' experiences.
+D
+The guides help newcomers understand exhibits and give returning visitors new perspectives, supporting both access and a richer experience. The text does not say the exhibits were replaced or that the guides benefit only one group.
+reading-writing
+information
+Command of Evidence: Competing Explanations
+Hard
+RWI10
+Fossilized impressions of jellyfish are much more common in one ancient sediment layer than in an older layer. A researcher proposes that the difference reflects conditions that better preserved soft-bodied organisms, rather than a larger jellyfish population. Which finding would most strongly support the researcher's proposal?
+4
+The layer with more jellyfish impressions also contains many other well-preserved soft-bodied organisms, while hard-shelled fossils occur at similar rates in both layers.
+Jellyfish living today are found in many different marine habitats.
+The layer with more jellyfish impressions covers a larger geographic area than the older layer.
+The two sediment layers were deposited during different periods of Earth's history.
+A
+Finding more kinds of soft-bodied fossils, without a similar rise in hard-shelled fossils, points to better preservation of fragile remains. A larger exposed area or a difference in age alone does not distinguish preservation from population size.
+reading-writing
+craft
 Words in Context
 Easy
+RWC01
 Although the community theater moved to a new building, it retained its original name to honor the volunteers who founded it. As used in the text, what does "retained" most nearly mean?
+4
 Explained
 Changed
 Kept
 Announced
 C
 The theater continued using its original name, so retained means kept.
-RWC02
-1
-Craft and Structure
+reading-writing
+craft
 Text Structure and Purpose
 Easy
+RWC02
 Many desert plants store water in thick stems. Others have narrow leaves that reduce water loss. Both features help plants survive where rainfall is scarce. What is the main purpose of the text?
+4
 To explain two ways desert plants conserve or store water
 To compare the total rainfall of two deserts
 To argue that narrow leaves store more water than stems
 To describe how deserts become wetter over time
 A
 The passage presents two adaptations and explains how they help plants survive dry conditions.
-RWC03
-1
-Craft and Structure
+reading-writing
+craft
 Function of a Sentence
 Medium
+RWC03
 The restoration team originally planned to replace a damaged wooden doorway. When workers examined it closely, though, they found that most of the original wood remained strong. The team decided to repair the doorway instead. What is the function of the second sentence?
+4
 It describes the final repair process in detail.
 It introduces a problem unrelated to the doorway.
 It argues that new wood is always less durable than old wood.
 It gives evidence that explains the change in the team's plan.
 D
 The discovery that much of the wood remained strong explains why the team chose repair instead of replacement.
-RWC04
-1
-Craft and Structure
+reading-writing
+craft
 Words in Context
 Medium
+RWC04
 The committee offered a measured endorsement of the proposal: members supported a trial period but wanted more evidence before recommending permanent adoption. As used in the text, what does "measured" most nearly mean?
+4
 Calculated using a precise instrument
 Carefully limited rather than unreserved
 Expressed with strong enthusiasm
 Delayed because of a scheduling conflict
 B
 Support for a trial rather than immediate permanent adoption shows that the endorsement was cautious and limited.
-RWC05
-1
-Craft and Structure
+reading-writing
+craft
 Overall Purpose
 Medium
+RWC05
 At first, museum staff assumed that fewer visitors used the west entrance because it was farther from the parking area. Observations later showed that the entrance sign was difficult to see from the sidewalk. After the sign was moved, use of the west entrance increased. Which choice best describes the main purpose of the text?
+4
 To list all entrances to a museum
 To explain why parking is essential for museums
 To illustrate how new evidence led staff to revise an explanation
 To argue that visitors prefer signs to maps
 C
 The passage moves from an initial assumption to evidence about the sign and describes how the evidence changed the understanding of visitor behavior.
-RWC06
-1
-Craft and Structure
+reading-writing
+craft
 Cross-Text Connections: Scope of a Claim
 Medium
+RWC06
 Text 1: A historian argues that the appearance of imported glass beads at a remote settlement demonstrates that residents directly traded with merchants from coastal towns. Text 2: An archaeologist agrees that the beads originated on the coast but notes that goods often passed through several communities before reaching their final users. The archaeologist says the beads establish a connection between regions, not necessarily direct contact between coastal merchants and settlement residents. How would the archaeologist in Text 2 most likely respond to Text 1?
+4
 By denying that the beads were manufactured in coastal towns.
 By arguing that all imported goods found at inland sites were delivered by traveling merchants.
 By agreeing that the beads indicate regional exchange while questioning whether they demonstrate direct trade.
 By claiming that the settlement residents made the beads themselves using coastal techniques.
 C
 Both authors accept the beads' coastal origin. Text 2 narrows the conclusion: exchange across regions is supported, but direct transactions are not established because intermediary communities could have transported the beads.
-RWC07
-1
-Craft and Structure
+reading-writing
+craft
 Words in Context: Nuanced Meaning
 Hard
+RWC07
 When a dispute arose over who had discovered a collection of manuscripts, the committee appointed an archivist who had worked with neither claimant and would receive no professional benefit from either outcome. Both claimants asked her to endorse their accounts, but she insisted on inspecting the surviving documents before drawing a conclusion. The committee praised her disinterested approach. As used in the text, what does "disinterested" most nearly mean?
+4
 Unconvinced by the evidence
 Uninvolved in the research process
 Unenthusiastic about the documents
 Free of a personal interest in the outcome
 D
 The archivist has no connection to either claimant or benefit tied to the decision; disinterested therefore means impartial, not simply skeptical, disengaged, or absent from the process.
-RWC08
-1
-Craft and Structure
+reading-writing
+craft
 Cross-Text Connections: Interpretation of Evidence
 Hard
+RWC08
 Text 1: Archaeologists discovered obsidian tools at an inland settlement, although the nearest known deposits of obsidian lie hundreds of kilometers away. One researcher argues that the tools are evidence of an organized long-distance trading network connecting the settlement to distant quarry sites. Text 2: Another researcher agrees that the obsidian traveled a considerable distance but points out that people could have carried it during seasonal migrations and exchanged it informally along the way. The presence of the material alone, this researcher maintains, cannot establish the existence of an organized network. Which choice best describes the disagreement?
+4
 The researchers disagree about whether the tools were made of obsidian.
 The researchers disagree about whether distant origin is enough to establish a particular system of exchange.
 The researchers agree that the settlement was a major trading center but disagree about the date of its establishment.
 The researchers agree that seasonal migration is impossible but disagree about which quarry produced the tools.
 B
 Both researchers accept the long-distance origin of the obsidian. They disagree about whether that fact warrants the narrower claim that exchange occurred through an organized trade network rather than other means.
-RWE01
-1
-Expression of Ideas
+reading-writing
+craft
+Words in Context
+Easy
+RWC09
+Before construction began, the engineer asked a second team to review the bridge plans to ensure that the proposed design was sound. As used in the text, what does "sound" most nearly mean?
+4
+Reliable and well founded
+Loud enough to be heard
+Located beneath water
+Finished ahead of schedule
+A
+The second team is checking whether the design is reliable, so sound means well founded or structurally sensible. It does not refer to noise.
+reading-writing
+craft
+Cross-Text Connections: Different Priorities
+Hard
+RWC10
+Text 1: A librarian argues that digitizing fragile historical maps should be a priority because high-quality scans let people study the maps without handling and potentially damaging the originals. Text 2: A map conservator supports making scans available but notes that some research requires examining features such as paper thickness and faint impressions left by drawing tools, which scans may not capture. Which choice best describes how Text 2 relates to Text 1?
+4
+Text 2 disputes the claim that handling original maps can damage them.
+Text 2 argues that scans contain more physical information than original maps do.
+Text 2 recommends ending digitization projects until every original map has been repaired.
+Text 2 acknowledges the benefits of scans while explaining why some research still requires access to originals.
+D
+Text 2 agrees that scans have value but identifies physical properties they may omit. Therefore, digital access and examination of originals serve different research needs; Text 2 does not reject digitization.
+reading-writing
+expression
 Transitions: Cause and Effect
 Easy
+RWE01
 The school added refill stations throughout the building. ______ students began purchasing fewer disposable water bottles. Which choice completes the text with the most logical transition?
+4
 Nevertheless,
 For example,
 By contrast,
 As a result,
 D
 As a result introduces an effect that plausibly followed the installation of refill stations.
-RWE02
-1
-Expression of Ideas
+reading-writing
+expression
 Transitions: Examples
 Easy
+RWE02
 Several of the park's new features are designed to support local wildlife. ______ shallow pools provide drinking water for birds during dry months. Which choice completes the text with the most logical transition?
+4
 For example,
 In contrast,
 Even so,
 Instead,
 A
 The shallow pools are a specific example of the broader claim about wildlife-supporting features.
-RWE03
-1
-Expression of Ideas
+reading-writing
+expression
 Transitions: Contrast
 Medium
+RWE03
 The first batch of recycled glass contained several visible impurities. ______ the manufacturer used it successfully to create sturdy paving tiles. Which choice completes the text with the most logical transition?
+4
 Similarly,
 For this reason,
 Nevertheless,
 In addition,
 C
 Nevertheless introduces the surprising fact that the glass could still be used successfully despite its impurities.
-RWE04
-1
-Expression of Ideas
+reading-writing
+expression
 Transitions: Clarification
 Medium
+RWE04
 The experiment did not show that the new coating prevented every scratch. ______ it showed only that coated surfaces suffered fewer scratches than uncoated surfaces under the tested conditions. Which choice completes the text with the most logical transition?
+4
 Likewise,
 Rather,
 Meanwhile,
 Consequently,
 B
 Rather corrects a possible overstatement by specifying what the experiment actually demonstrated.
-RWE05
-1
-Expression of Ideas
+reading-writing
+expression
 Rhetorical Synthesis: Comparison Over Time
 Medium
+RWE05
 A student has taken these notes: Riverton introduced a bus route between the university and central station in 2008. In 2016, the route was extended to the public hospital. In 2022, its weekend service increased from once an hour to twice an hour. The route now links education, medical, and rail destinations. The student wants to emphasize how the route became more useful for different kinds of trips, not merely list its dates. Which choice best accomplishes this goal?
+4
 The route was opened in 2008, extended in 2016, and received more frequent weekend service in 2022.
 Riverton's route began by linking the university and rail station, then gained a hospital stop and more frequent weekend service, expanding the types of trips and times it could serve.
 The university and the hospital are connected to Riverton's central rail station by a bus route.
 The 2022 service change made weekend buses more frequent on the route than in any earlier year.
 B
 The answer uses the route's successive changes to explain broadened usefulness: different destinations and improved service times. The other choices list events without fully connecting them to the stated purpose.
-RWE06
-1
-Expression of Ideas
+reading-writing
+expression
 Rhetorical Synthesis: Audience
 Medium
+RWE06
 A student has taken these notes: A new exhibition features illustrations by artist Lina Vale; the exhibition includes sketches and finished prints; the exhibition is held at the Harbor Museum; it opens on May 4. The student wants to announce the exhibition to readers who already know the museum. Which choice most effectively uses the notes?
+4
 The Harbor Museum is a place where exhibitions are held.
 Artist Lina Vale's exhibition of sketches and finished prints opens May 4.
 Illustrations can take the form of sketches or prints.
 An exhibition is an event that a museum may organize.
 B
 The audience already knows the museum, so the most relevant information is the artist, works, and opening date.
-RWE07
-1
-Expression of Ideas
+reading-writing
+expression
 Rhetorical Synthesis: Comparison and Qualification
 Hard
+RWE07
 A student has taken these notes: Study A used 24 sensors to estimate urban tree cover, producing estimates within 3 percentage points of aerial-image measurements in most locations. Study B used 8 sensors and produced estimates within 5 percentage points in most locations. Study B required substantially less installation time. The studies took place in different cities with different patterns of tree cover. The student wants to compare accuracy and setup costs without implying that sensor count alone caused the accuracy difference. Which choice best accomplishes this goal?
+4
 Study A used three times as many sensors and recorded smaller typical deviations, suggesting that its greater sensor count improved accuracy at the cost of longer installation.
 Study B required less installation time and recorded larger typical deviations, indicating that its sensors may have performed less reliably in all settings.
 Study A reported smaller typical deviations than Study B, while Study B required less setup time; because the cities differed, the results do not isolate the effect of sensor count.
 Although Study A reported smaller deviations, the different cities mean that Study B might have been more accurate had both used the same number of sensors.
 C
 The answer accurately compares reported error and setup time while acknowledging that different study locations prevent a causal claim about the number of sensors. The other options overclaim, ignore qualifications, or dismiss a useful comparison.
-RWE08
-1
-Expression of Ideas
+reading-writing
+expression
 Transitions: Qualification of Evidence
 Hard
+RWE08
 A survey found that residents who visited a new park at least once a week reported feeling more connected to their neighborhood than residents who visited it less often. Frequent park visitors, however, also reported participating more often in other neighborhood events. ______ the survey suggests an association between park use and community connection, but it cannot establish that visiting the park caused the difference. Which choice completes the text with the most logical transition?
+4
 For example,
 Likewise,
 Therefore,
 In contrast,
 C
 Therefore introduces a carefully qualified conclusion from the evidence: park use correlates with reported connection, but broader civic participation could also explain the difference.
-RWS01
-1
-Standard English Conventions
+reading-writing
+expression
+Transitions: Sequence
+Easy
+RWE09
+The team first translated the emergency instructions into five languages. ______ it asked community volunteers to test the translations for clarity. Which choice completes the text with the most logical transition?
+4
+Next,
+By contrast,
+For example,
+Nevertheless,
+A
+Next introduces the step that followed translation: asking volunteers to test the instructions. The other transitions signal contrast, an example, or an unexpected result rather than sequence.
+reading-writing
+expression
+Rhetorical Synthesis: Complementary Strengths and Limitations
+Hard
+RWE10
+A student has taken these notes: Device K is a portable filter made with gravel and charcoal; it can remove visible sediment from water but does not reliably eliminate disease-causing microorganisms. Device L uses ultraviolet light to inactivate microorganisms in clear water, but it is less effective when the water is cloudy. Neither device alone is guaranteed to make untreated water safe to drink. The student wants to compare the devices' different strengths and limitations without claiming that either is a complete solution. Which choice best accomplishes this goal?
+4
+Device K removes sediment and Device L treats microorganisms, so together they are guaranteed to make water from any source safe.
+Device L works on microorganisms in clear water, making it a complete replacement for filters such as Device K.
+Device K can reduce cloudiness, showing that it alone is sufficient to make untreated water safe.
+Device K can remove visible sediment but not reliably microorganisms, whereas Device L can treat microorganisms in clear water but becomes less effective in cloudy water; neither is sufficient on its own.
+D
+The correct choice distinguishes sediment removal from microorganism treatment and includes both limitations. The other options overstate what the devices can accomplish and ignore the notes' warning against guaranteed safety.
+reading-writing
+standard
 Subject-Verb Agreement
 Easy
+RWS01
 The list of supplies for the field trip ______ on the teacher's desk. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
 are
 is
 have
 were
 B
 The singular subject list takes the singular verb is; the phrase of supplies does not change subject-verb agreement.
-RWS02
-1
-Standard English Conventions
+reading-writing
+standard
 Possessive Nouns
 Easy
+RWS02
 The three ______ notebooks were left in the classroom after the workshop. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
 students
 students'
 student's
 students's
 B
 The notebooks belong to three students, so the plural possessive form is students with an apostrophe after the s.
-RWS03
-1
-Standard English Conventions
+reading-writing
+standard
 Commas after Introductory Phrases
 Medium
+RWS03
 Before opening the gallery to visitors ______ the curator checked the lighting in every room. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
 ,
 ;
 :
 -
 A
 A comma separates the introductory phrase Before opening the gallery to visitors from the independent clause that follows.
-RWS04
-1
-Standard English Conventions
+reading-writing
+standard
 Semicolons Between Independent Clauses
 Medium
+RWS04
 The first sample dissolved quickly ______ the second sample remained solid even after an hour. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
 ,
 and,
 ;
 : because
 C
 The two complete independent clauses can be joined by a semicolon without a coordinating conjunction.
-RWS05
-1
-Standard English Conventions
+reading-writing
+standard
 Dangling Modifiers
 Medium
+RWS05
 After carefully reviewing the survey responses, ______ revised the questionnaire for the next study. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
 the wording of several questions was
 there were several questions that
 the next study was
 the researchers
 D
 The introductory phrase describes the researchers, so the clause must begin with the people who reviewed the responses.
-RWS06
-1
-Standard English Conventions
+reading-writing
+standard
 Verb Tense and Sequence
 Medium
+RWS06
 By the time researchers began analyzing the samples, the laboratory technicians ______ each specimen twice and recorded both measurements in a shared log. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
 have measured
 had measured
 will have measured
 are measuring
 B
 Had measured uses the past perfect to show that the measuring and logging were completed before another past event, the start of analysis. The other tenses do not express that relationship.
-RWS07
-1
-Standard English Conventions
+reading-writing
+standard
 Punctuation: Complex Series
 Hard
+RWS07
 For the exhibition, the museum borrowed pottery from two coastal villages, each known for a distinct glazing style ______ textiles from an inland workshop, where designs had been preserved for generations ______ and metalwork from a city collection, including several ceremonial vessels. Each answer choice gives the punctuation for the first blank and then the second. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
 , / ,
 ; / ,
 , / ;
 ; / ;
 D
 Each item in the three-part series contains its own comma and elaborating phrase. Semicolons clearly separate the major list items while preserving their internal commas.
-RWS08
-1
-Standard English Conventions
+reading-writing
+standard
 Subject-Verb Agreement Across Interruptions
 Hard
+RWS08
 The outcome of the preliminary tests, together with the results of two subsequent trials conducted under different conditions, ______ that the coating's durability depends partly on temperature. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
 suggest
 suggests
 have suggested
 were suggesting
 B
 The subject of the sentence is the singular noun outcome. The intervening phrase beginning with together with does not change its number, so the singular verb suggests is required. The other choices use plural verb forms.
+reading-writing
+standard
+Pronoun Case
+Easy
+RWS09
+The guide gave the visitors and ______ a copy of the trail map. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
+me
+I
+myself
+mine
+A
+The pronoun is an indirect object of the verb gave, so the objective form me is required. Removing the visitors and makes the correct form clearer: the guide gave me a copy.
+reading-writing
+standard
+Colons and Semicolons
+Hard
+RWS10
+The expedition relied on two kinds of records ______ sketches made at the site and descriptions written by local guides ______ together, these sources helped researchers reconstruct the route. Each answer choice gives the punctuation for the first blank and then the second. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
+, / ,
+; / ,
+: / ,
+: / ;
+D
+The colon introduces the two kinds of records, and the semicolon separates the complete clause from the next independent clause beginning with together. A comma at the second blank would create a comma splice.
