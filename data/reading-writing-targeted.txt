@@ -1,0 +1,520 @@
+reading-writing
+information
+Central Ideas and Details
+Easy
+RWTINFO01
+At a public observatory, volunteers help visitors identify constellations through telescopes. On clear nights, they also record measurements of sky brightness that researchers use to study light pollution. Which choice best states the main idea of the text?
+4
+The observatory focuses on research and does not welcome visitors.
+The observatory supports both public learning and scientific data collection.
+Volunteers at the observatory are trying to reduce the number of constellations visible.
+Researchers use telescopes only when volunteers are unavailable.
+B
+The observatory offers astronomy experiences to visitors while collecting sky-brightness measurements for researchers. Both roles are central to the passage.
+reading-writing
+information
+Inferences
+Easy
+RWTINFO02
+When a train station installed displays showing when the next trains would arrive, passengers began gathering near the displays to check the times. Some passengers said they no longer needed to consult a printed schedule. Which conclusion is best supported by the text?
+4
+Printed schedules became illegal to use after the displays were installed.
+The displays caused trains to arrive more frequently.
+The displays gave some passengers a convenient alternative to printed schedules.
+Every passenger preferred the displays to other sources of information.
+C
+Passengers checked the displays and some stopped consulting printed schedules, supporting a limited conclusion about convenience. The text does not establish changes in train service or everyone's preferences.
+reading-writing
+information
+Command of Evidence: Textual
+Easy
+RWTINFO03
+A geologist claims that a deposit of mixed rocks was carried to its present location by a glacier rather than sorted by a river. Which finding would most directly support the geologist's claim?
+4
+The deposit contains large boulders and fine sediment mixed together without layers separating them by size.
+The deposit lies near a modern river that frequently floods in spring.
+Several rocks in the deposit have the same chemical composition.
+The deposit is younger than a nearby mountain range.
+A
+Glaciers can leave material of many sizes mixed together, whereas moving water commonly sorts sediments by size. The other findings do not distinguish the two transport processes.
+reading-writing
+information
+Command of Evidence: Quantitative
+Medium
+RWTINFO04
+A botanist measured the average number of days that three flower species bloomed at two elevations. Species X bloomed for 29 days at the lower elevation and 19 days at the higher one; species Y bloomed for 22 and 17 days, respectively; and species Z bloomed for 40 and 27 days, respectively. Which statement is best supported by these data?
+4
+Species X had the largest decrease in blooming duration, a decrease of 10 days.
+Species Y had the smallest blooming duration at both elevations.
+Species Z bloomed for the same number of days as species X at the higher elevation.
+Species Z had the largest decrease in blooming duration, a decrease of 13 days.
+D
+Subtract the higher-elevation duration from the lower-elevation duration for each species: X decreased by 10 days, Y by 5, and Z by 13. Species Z had the largest decrease, even though it bloomed longest at both elevations.
+reading-writing
+information
+Logical Completion
+Medium
+RWTINFO05
+Scientists studying an ancient lake found layers of sediment containing pollen from trees that prefer cool climates. Above those layers were deposits containing pollen mainly from grasses that thrive in warmer conditions. Assuming the layers accumulated in chronological order, the evidence suggests that ______ Which choice most logically completes the text?
+4
+the climate near the lake may have become warmer over time.
+the lake must have dried up before any trees grew nearby.
+the trees and grasses necessarily grew at exactly the same time.
+the amount of pollen in a layer determines its age precisely.
+A
+The shift from cool-climate tree pollen in older layers to warm-climate grass pollen in younger layers supports a possible warming trend. It does not establish the lake's disappearance or exact dates.
+reading-writing
+information
+Evaluating a Scientific Hypothesis
+Medium
+RWTINFO06
+Biologists hypothesize that bats locate ripe fruit primarily by smell rather than by the fruit's color. The researchers place identical artificial fruits in a dim enclosure, giving some the odor of ripe fruit and others no odor. Which result would most directly support their hypothesis?
+4
+The bats avoid every artificial fruit, regardless of its odor.
+The bats approach ripe-scented fruits more often than unscented fruits even though the fruits look identical.
+The bats approach bright-colored fruits more often when the lights are turned on.
+The bats eat more fruit after being given additional food earlier in the day.
+B
+Because the artificial fruits look identical, a preference for the ripe scent would link the bats' behavior to smell rather than color. The other outcomes do not isolate the proposed cue.
+reading-writing
+information
+Command of Evidence: Historical Sources
+Medium
+RWTINFO07
+A historian argues that the editors of an early student newspaper made most publication decisions independently of school administrators. Which evidence would best support the claim?
+4
+The newspaper was distributed at school events each month.
+The newspaper printed announcements about school activities.
+Meeting records show that student editors selected articles and approved final pages without administrative review.
+Administrators occasionally purchased advertisements in the newspaper.
+C
+Records showing that students chose and approved content without administrative review directly support editorial independence. Distribution and advertising do not establish who controlled decisions.
+reading-writing
+information
+Drawing Conclusions from Controlled Comparisons
+Hard
+RWTINFO08
+Researchers suspect that the differences in songs sung by two populations of the same bird species arise mainly from what young birds hear while growing up rather than from inherited differences. They raise chicks from both populations in identical conditions, exposing half of each group to recordings of population A and the other half to recordings of population B. Which finding would most strongly support the researchers' hypothesis?
+4
+Chicks from population A consistently sing the same songs as their biological parents, regardless of which recordings they hear.
+Chicks exposed to recordings of population A sing more quietly than chicks exposed to recordings of population B.
+Chicks from both populations sing only after reaching the same age.
+Chicks from both populations develop songs resembling the recordings they heard, regardless of their population of origin.
+D
+If song patterns follow the recordings rather than the chicks' origins, learning from the acoustic environment is a stronger explanation than inherited population differences. Volume and age alone do not test that distinction.
+reading-writing
+information
+Interpreting Rates from Data
+Hard
+RWTINFO09
+A factory measured water lost through leaks during three weeks. In week 1, it lost 8,000 liters while producing 1,000 units. In week 2, it lost 7,200 liters while producing 1,200 units. In week 3, it lost 6,900 liters while producing 900 units. A manager wants to identify the week with the least water lost per unit produced. Which conclusion is best supported?
+4
+Week 3 had the lowest rate because it had the smallest total water loss.
+Week 2 had the lowest rate, at 6 liters lost per unit produced.
+Week 1 had the lowest rate, at 8 liters lost per unit produced.
+All three weeks had the same rate once production is considered.
+B
+Divide losses by units produced: week 1 is 8 liters per unit, week 2 is 6, and week 3 is about 7.67. The smallest total loss is not necessarily the lowest rate.
+reading-writing
+information
+Limits of an Inference
+Hard
+RWTINFO10
+Researchers found sets of fossil footprints in the same rock layer. Several sets have nearly identical spacing between successive prints, which the researchers say could indicate similar walking speeds. However, the prints differ in shape, and the team has not identified the animals that made them. Which conclusion is best supported?
+4
+Similar step spacing is consistent with similar walking speeds, but it does not establish that the prints came from the same species.
+The footprints must have been made by a single animal walking repeatedly across the site.
+The difference in print shapes proves that the animals traveled at different speeds.
+The researchers can determine each animal's species from step spacing alone.
+A
+Step spacing may provide evidence about movement, but different print shapes and unidentified track makers limit conclusions about species. Similar spacing cannot by itself identify an animal.
+reading-writing
+craft
+Words in Context
+Easy
+RWTCRAFT01
+The bright yellow marker was conspicuous against the dark rocks, allowing hikers to spot the trail even in fog. As used in the text, what does "conspicuous" most nearly mean?
+4
+Recently installed
+Difficult to interpret
+Easy to notice
+Likely to disappear
+C
+The contrast with the rocks makes the marker easy to see, so conspicuous means noticeable, not merely new or temporary.
+reading-writing
+craft
+Text Structure and Purpose
+Easy
+RWTCRAFT02
+In one storytelling tradition, performers change the pace of a tale depending on their audience. They may pause longer during suspenseful moments or shorten familiar sections when listeners already know the story. These choices make each performance slightly different. What is the main purpose of the text?
+4
+To describe how storytellers adjust performances for their listeners
+To argue that written stories are less accurate than spoken ones
+To explain why audiences prefer short stories to long ones
+To identify the earliest recorded example of a storytelling tradition
+A
+The passage explains how performers vary pacing and length in response to an audience. It does not compare storytelling media or discuss the tradition's origin.
+reading-writing
+craft
+Words in Context
+Easy
+RWTCRAFT03
+The first changes in the sculpture were subtle: only visitors who looked closely noticed that its surface had become slightly darker. As used in the text, what does "subtle" most nearly mean?
+4
+Extremely expensive
+Carefully planned
+Impossible to reverse
+Difficult to detect
+D
+The changes were noticeable only on close inspection, so subtle means not readily apparent. Nothing indicates their cost, planning, or permanence.
+reading-writing
+craft
+Function of a Sentence
+Medium
+RWTCRAFT04
+A researcher designed a lightweight sensor for monitoring vibrations on bridges. Early prototypes produced inconsistent readings when temperatures changed. To address this problem, she added an insulating layer around the sensor's most sensitive component. Later tests showed more consistent readings across a range of temperatures. What is the function of the third sentence?
+4
+It identifies the original purpose of the monitoring project.
+It describes a modification intended to solve a problem identified earlier.
+It gives the final measurements from the later tests.
+It introduces a different kind of structure being monitored.
+B
+The third sentence describes the added insulation, a response to the temperature-related problem in the second sentence. The test results appear in the fourth sentence.
+reading-writing
+craft
+Comparing Organizational Patterns
+Medium
+RWTCRAFT05
+One species of octopus avoids predators by changing its skin color to match nearby surfaces. Another escapes by releasing a cloud of ink that briefly blocks a predator's view. Although the methods differ, both help the animals avoid being caught. Which choice best describes how the text is organized?
+4
+It lists several predators and then ranks them by speed.
+It gives an explanation and then presents evidence disproving it.
+It describes two different strategies before identifying their shared purpose.
+It explains how a single species changes its behavior over its lifetime.
+C
+The passage first explains camouflage and ink release, then identifies predator avoidance as their common purpose. It does not rank predators or describe development over time.
+reading-writing
+craft
+Cross-Text Connections: Language Change
+Medium
+RWTCRAFT06
+Text 1: A linguist notes that several distant communities use nearly identical words for a particular musical instrument. The linguist suggests that these similarities point to a shared ancestral language. Text 2: Another linguist observes that musicians regularly traveled among the communities and argues that the word could have spread through contact even if the communities' languages developed separately. How would the author of Text 2 most likely respond to Text 1?
+4
+By agreeing that the words are similar but offering borrowing through contact as an alternative explanation
+By denying that musicians moved among the communities
+By asserting that the instrument did not exist in the ancestral period
+By claiming that similar words prove the languages are unrelated
+A
+Text 2 accepts the word similarity but explains that it could result from borrowing rather than a common linguistic ancestor. The disagreement concerns the inference drawn from the evidence.
+reading-writing
+craft
+Words in Context: Nuanced Meaning
+Medium
+RWTCRAFT07
+Reviewers described the composer as exacting. During rehearsals, she listened closely to every passage and asked musicians to repeat sections until the timing and balance met her precise standards. As used in the text, what does "exacting" most nearly mean?
+4
+Unwilling to perform in public
+Quick to abandon a project
+Interested mainly in unfamiliar music
+Demanding a high degree of care and precision
+D
+Her insistence on repeated, precise rehearsals shows that exacting means having demanding standards. It does not mean refusing to perform or favoring novelty.
+reading-writing
+craft
+Cross-Text Connections: Conditions and Exceptions
+Hard
+RWTCRAFT08
+Text 1: A botanist argues that a particular root-associated fungus reliably improves crop growth because it helps plants absorb nutrients from soil. Text 2: Another botanist reports that the fungus improved growth in soils low in phosphorus but produced little measurable benefit in soils already rich in phosphorus. The second botanist calls for testing crops under varied soil conditions before making broad recommendations. Which choice best characterizes the relationship between the texts?
+4
+Text 2 rejects the idea that the fungus can affect nutrient uptake.
+Text 2 qualifies Text 1's broad claim by identifying conditions under which the benefit may be limited.
+Text 2 argues that phosphorus-rich soil always damages crops.
+Text 2 agrees that every crop benefits equally from the fungus and merely proposes a different testing schedule.
+B
+Text 2 accepts that the fungus can help but finds that its benefit varies with soil conditions. That limits the generality of Text 1's claim without rejecting the mechanism outright.
+reading-writing
+craft
+Function of a Qualification
+Hard
+RWTCRAFT09
+Researchers estimated the age of several fossil shells by dating the volcanic ash layers above and below the layer containing the shells. The resulting dates place the shells within a span of roughly 20,000 years. These dates apply directly to the ash, not to the shells themselves. The team therefore describes the shells' age as a range rather than assigning them a single year. What is the function of the third sentence in the text?
+4
+It explains why the volcanic ash was formed after the shells became fossils.
+It challenges the reliability of all dating methods used in geology.
+It identifies a limitation of the evidence that explains the researchers' cautious conclusion.
+It introduces a second group of fossils that can be dated more precisely.
+C
+Dating the surrounding ash constrains the shells' age but does not directly date each shell. The third sentence clarifies that limitation, motivating the age range in the final sentence.
+reading-writing
+craft
+Words in Context: Nuanced Meaning
+Hard
+RWTCRAFT10
+The architect's early sketches were prodigious in number: her notebooks contained hundreds of distinct proposals, many developed only far enough to test a single idea. As used in the text, what does "prodigious" most nearly mean?
+4
+Remarkably great
+Carelessly arranged
+Technically complicated
+Recently discovered
+A
+The reference to hundreds of proposals makes prodigious mean unusually large in quantity. The text says nothing about disorder or technical complexity.
+reading-writing
+expression
+Transitions: Specific Examples
+Easy
+RWTEXPR01
+Many insects help break down dead plant material. ______ certain beetles feed on fallen leaves, speeding their decomposition. Which choice completes the text with the most logical transition?
+4
+For instance,
+In contrast,
+Nevertheless,
+As a result,
+A
+The beetles provide a specific example of the broader claim about insects and decomposition. A contrast or conclusion would misrepresent the relationship.
+reading-writing
+expression
+Transitions: Contrast
+Easy
+RWTEXPR02
+The mountain trail is open to hikers during the summer. ______ it is closed in winter when heavy snow makes the route unsafe. Which choice completes the text with the most logical transition?
+4
+For example,
+Therefore,
+Similarly,
+However,
+D
+However signals the contrast between summer access and winter closure. The second sentence is not an example or consequence of summer access.
+reading-writing
+expression
+Rhetorical Synthesis: Relevant Details
+Easy
+RWTEXPR03
+A student has taken these notes: Scientist Amara Lewis studies how sound travels underwater; she will give a public talk on April 12; the talk is at the Eastside Community Center; admission is free. The student wants to announce the talk to local residents. Which choice best accomplishes this goal?
+4
+Underwater sound travels differently from sound in air.
+Scientist Amara Lewis will give a free public talk about underwater sound on April 12 at the Eastside Community Center.
+Amara Lewis is a scientist who studies underwater acoustics.
+The Eastside Community Center hosts different kinds of events.
+B
+An announcement should tell residents what the event is, when and where it occurs, and that it is free. The other choices omit important practical details.
+reading-writing
+expression
+Transitions: Concession
+Medium
+RWTEXPR04
+The excavation site was smaller than the researchers had originally hoped. ______ the team recovered enough pottery fragments to identify several distinct manufacturing techniques. Which choice completes the text with the most logical transition?
+4
+Consequently,
+For example,
+Even so,
+Similarly,
+C
+Even so acknowledges a limitation but introduces a useful result achieved despite it. A cause-and-effect transition would imply that the smaller site produced the findings.
+reading-writing
+expression
+Rhetorical Synthesis: Comparing Purposes
+Medium
+RWTEXPR05
+A student has taken these notes: A weather satellite measures cloud cover over large regions several times a day. A ground-based weather station measures local temperature, rainfall, and wind speed. Satellite images show broad patterns; stations provide detailed measurements at specific locations. The student wants to explain why meteorologists might use both tools together. Which choice best uses the notes?
+4
+Weather satellites collect images from above Earth, while weather stations remain on the ground.
+Local weather stations are more useful than satellites because they measure rainfall directly.
+A satellite can measure cloud cover, but ground stations cannot provide any information about weather patterns.
+Satellites reveal regional cloud patterns, while ground stations supply detailed local conditions, so using both gives meteorologists complementary information.
+D
+The correct choice connects each tool's distinct strengths to the purpose of using them together. Listing differences alone does not explain their combined value.
+reading-writing
+expression
+Transitions: Strengthening a Claim
+Medium
+RWTEXPR06
+The new telescope can detect objects too faint for the observatory's previous instrument. ______ during its first month, it recorded light from several galaxies that the earlier telescope had never captured. Which choice completes the text with the most logical transition?
+4
+Conversely,
+Indeed,
+Meanwhile,
+Otherwise,
+B
+Indeed introduces evidence reinforcing the preceding claim about improved sensitivity. The second sentence supports the first rather than contrasting with it.
+reading-writing
+expression
+Rhetorical Synthesis: Audience Needs
+Medium
+RWTEXPR07
+A student has taken these notes: The city's annual river cleanup takes place Saturday, June 8; volunteers meet at North Pier at 9 a.m.; gloves and collection bags will be supplied; volunteers should wear closed-toe shoes. The student is writing to people who have already registered and wants to help them prepare. Which choice most effectively uses the notes?
+4
+Registered volunteers should meet at North Pier at 9 a.m. on June 8, wear closed-toe shoes, and expect gloves and collection bags to be provided.
+The city organizes a river cleanup each year to collect litter from the riverbank.
+The event is called the city's annual river cleanup and will take place on Saturday.
+Closed-toe shoes are important for many activities near rivers.
+A
+Because the audience is already registered, the most useful message provides logistical and preparation details rather than general information about the event.
+reading-writing
+expression
+Rhetorical Synthesis: Historical Evidence and Uncertainty
+Hard
+RWTEXPR08
+A student has taken these notes: One diary says a traveling orchestra performed in Westport in late May 1912. A newspaper advertisement announces an orchestra concert in Westport on May 27, 1912. The diary does not name the ensemble. The advertisement does not establish that the concert actually took place. The student wants to show how the two sources support a possible historical event without overstating what they prove. Which choice best accomplishes this goal?
+4
+Because the diary and advertisement agree, they prove that the orchestra performed on May 27.
+The newspaper advertisement demonstrates that the diary writer attended the advertised concert.
+A diary reports an orchestra performance in Westport in late May 1912, and a May 27 advertisement is consistent with that account, though the sources do not establish that they refer to the same concert.
+The two sources contradict one another because one names an exact date and the other does not.
+C
+The correct choice compares the dates while acknowledging that the sources do not identify the same ensemble or independently confirm that the advertised event occurred. The other answers claim more than the evidence shows.
+reading-writing
+expression
+Transitions: Drawing a Qualified Conclusion
+Hard
+RWTEXPR09
+Some researchers argue that a newly discovered manuscript was written by the poet herself because its handwriting resembles that in several signed letters. Other scholars note that scribes sometimes imitated authors' handwriting and that the manuscript has not been independently dated. ______ the resemblance offers evidence worth investigating, but it cannot alone settle the question of authorship. Which choice completes the text with the most logical transition?
+4
+For example,
+Likewise,
+By contrast,
+Thus,
+D
+Thus introduces a conclusion that weighs both the supporting handwriting evidence and the stated uncertainties. The other transitions imply an example, similarity, or contrast instead of a synthesis.
+reading-writing
+expression
+Rhetorical Synthesis: Addressing a Counterargument
+Hard
+RWTEXPR10
+A student has taken these notes: A city plans to replace some streetlights with motion-activated lights; supporters say the lights could reduce electricity use when streets are empty; critics worry that sudden changes in brightness could make pedestrians uncomfortable; a pilot program will gather residents' feedback as well as energy-use data. The student wants to acknowledge the concern while explaining why the pilot program is useful. Which choice best accomplishes this goal?
+4
+Motion-activated streetlights could reduce electricity use, so concerns about pedestrian comfort need not be considered.
+Although some residents worry that changing brightness could be uncomfortable, the pilot will measure energy savings and gather feedback to help the city assess both benefits and concerns.
+The city's pilot program will examine whether motion-activated lights use less electricity than conventional streetlights.
+Critics oppose motion-activated lights because they believe no energy savings are possible.
+B
+The choice includes both the potential benefit and the concern, then explains how the pilot can evaluate them. The other options omit or misrepresent one side of the debate.
+reading-writing
+standard
+Possessive Pronouns and Contractions
+Easy
+RWTSTD01
+The orchestra kept ______ instruments in a temperature-controlled room between performances. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
+it's
+its'
+it
+its
+D
+Its is the possessive form of it. It's means it is or it has, and its' is not a standard English form.
+reading-writing
+standard
+Subject-Verb Agreement
+Easy
+RWTSTD02
+Several of the paintings in the new collection ______ landscapes from the nineteenth century. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
+is
+are
+was
+has been
+B
+The subject several is plural, so the plural verb are agrees with it. The phrase in the new collection does not change the subject's number.
+reading-writing
+standard
+Commas in a Series
+Easy
+RWTSTD03
+The field researchers packed notebooks ______ cameras, and spare batteries for their expedition. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
+;
+:
+,
+-
+C
+A comma separates notebooks from cameras in a list of three items. A semicolon or colon would not correctly separate these simple list items.
+reading-writing
+standard
+Pronoun Case in Relative Clauses
+Medium
+RWTSTD04
+The prize was awarded to the scientist ______ the committee had nominated earlier that year. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
+whom
+who
+whose
+which
+A
+Whom serves as the object of the verb nominated: the committee had nominated the scientist. Who would be the subject form, while whose indicates possession.
+reading-writing
+standard
+Restrictive Relative Clauses
+Medium
+RWTSTD05
+The researchers ______ collected samples from the northern site will present their findings tomorrow. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
+whom
+who
+whose
+which
+B
+Who is the subject of the relative clause who collected samples, and it refers to people. Whom is an object form, whose is possessive, and which normally refers to things.
+reading-writing
+standard
+Maintaining Verb Tense
+Medium
+RWTSTD06
+The astronomer recorded the position of the comet and then ______ the observation in her journal. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
+will describe
+has described
+describing
+described
+D
+Recorded and described are parallel past-tense verbs describing consecutive actions. Changing tense or using a participle would disrupt the sentence's structure.
+reading-writing
+standard
+Parallel Structure
+Medium
+RWTSTD07
+The workshop teaches participants to identify local trees, to collect fallen leaves, and ______ specimens for a class display. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
+labeling
+labeled
+to label
+labels
+C
+The sentence uses parallel infinitive phrases: to identify, to collect, and to label. Changing the grammatical form of the final item breaks that pattern.
+reading-writing
+standard
+Punctuation: Parenthetical Information
+Hard
+RWTSTD08
+The new sensor ______ which is smaller than the previous model ______ can operate for a month on one battery. Each answer choice gives the punctuation for the first blank and then the second. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
+, / ,
+; / ;
+: / :
+, / ;
+A
+The which clause adds nonessential information about the already identified sensor, so matching commas set it off. Semicolons and colons cannot serve as a matching pair around this interruption.
+reading-writing
+standard
+Subjunctive Mood in Hypothetical Statements
+Hard
+RWTSTD09
+If the laboratory ______ a second cooling unit, the researchers would be able to maintain two experiments at different temperatures simultaneously. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
+has
+had
+will have
+having
+B
+The sentence presents a hypothetical situation using if plus the past form had and a result with would. Has and will have do not match this hypothetical conditional structure.
+reading-writing
+standard
+Past Perfect in Counterfactual Conditions
+Hard
+RWTSTD10
+If the earliest measurements ______ reliable, the researchers would have detected the change several months sooner. Which choice completes the text so that it conforms to the conventions of Standard English?
+4
+was
+are
+have been
+had been
+D
+A hypothetical past condition paired with would have detected takes the past perfect had been. The alternatives either disagree with the plural subject or fail to express the unreal past condition.
