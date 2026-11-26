@@ -13,7 +13,6 @@ public class QuizHandler {
         } else {
             showPractice(path, requestPath, subject, output);
         }
-        
     }
     /**
      * Loads the selected bank and checks its topics and question IDs.
@@ -141,7 +140,7 @@ public class QuizHandler {
             for (int number = 1; number <= quizCount; number++) {
                 int start = (number - 1) * 10;
                 int size = Math.min(10, total - start);
-                output.println("<p><a href=\"" + link
+                output.println("<p><a class=\"button\" href=\"" + link
                     + "&amp;quiz=" + number + "\">Quiz " + number
                     + "</a> - " + size + " questions</p>");
             }
@@ -202,7 +201,7 @@ public class QuizHandler {
                 + SubjectHandler.escape(question.getId())
                 + "\" value=\"" + letter + "\" required> "
                 + letter + ") " + SubjectHandler.escape(choices[i])
-                + "</label><br>");
+                + "</label>");
         }
         output.println("</fieldset><br>");
     }
@@ -222,6 +221,8 @@ public class QuizHandler {
 
         int score = 0;
         int total = 0;
+        String missedIds = "";
+
         int[] topicCorrect = new int[subject.getTopicCodes().length];
         int[] topicTotal = new int[topicCorrect.length];
 
@@ -234,6 +235,11 @@ public class QuizHandler {
             total++;
             if (correct) {
                 score++;
+            } else {
+                if (!missedIds.isEmpty()) {
+                    missedIds += ",";
+                }
+                missedIds += question.getId();
             }
             int topicIndex = findTopic(subject, question.getTopic());
             topicTotal[topicIndex]++;
@@ -245,6 +251,9 @@ public class QuizHandler {
         if (total == 0) {
             output.println("<p>No matching quiz questions were submitted.</p>");
         } else {
+            String date = java.time.LocalDateTime.now().toString();
+            QuizResult result = new QuizResult(StudentProfile.getUsername(), subject.getCode(), mode, date, score, total, subject.getTopicCodes(), topicCorrect, topicTotal, missedIds);
+            ProgressStore.save(result);
             output.println("<h2>Score: " + score + " / " + total + "</h2>");
             showPerformance(subject, topicCorrect, topicTotal, output);
         }
