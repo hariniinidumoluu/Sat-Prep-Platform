@@ -4,57 +4,24 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>SAT Prep</title>
-        <style>
-            body {
-                margin: 0;
-                padding: 64px 24px;
-                background-color: #EAF4FC;
-                color: #354b63;
-                font-family: Arial, sans-serif;
-            }
-            main {
-                max-width: 620px;
-                margin: 0 auto;
-                padding: 32px;
-                background-color: #fffcf6;
-                border: 1px solid #c9deef;
-                border-radius: 16px;
-            }
-            h1 {
-                margin-top: 0;
-                color: #163B61;
-            }
-            p {
-                line-height: 1.5;
-            }
-            nav {
-                display: flex;
-                flex-wrap: wrap;
-                gap: 12px;
-                margin-top: 24px;
-            }
-            nav a {
-                padding: 12px 16px;
-                background-color: #245F9E;
-                color: white;
-                border-radius: 8px;
-                font-weight: bold;
-                text-decoration: none;
-            }
-            nav a:hover,
-            nav a:focus-visible {
-                background-color: #163B61;
-            }
-        </style>
+        <link rel="stylesheet" href="/style.css">
     </head>
     <body>
         <main>
             <h1>SAT Prep</h1>
-            <p>Practice SAT Math and Reading &amp; Writing for free.</p>
-            <nav aria-label="Practice subjects">
-                <a href="/subject?subject=math">SAT Math</a>
-                <a href="/subject?subject=reading-writing">SAT Reading &amp; Writing</a>
-            </nav>
+            <p>Free practice for SAT Math and Reading &amp; Writing.</p>
+            <p>Current profile: {{USERNAME}}</p>
+            <a class="button" href="/switch-profile">Switch Profile</a>
+            <section>
+                <h2>SAT Math</h2>
+                <p>Take a diagnostic, practice by topic, and review your saved scores.</p>
+                <a class="button" href="/subject?subject=math">Practice Math &rarr;</a>
+            </section>
+            <section>
+                <h2>SAT Reading &amp; Writing</h2>
+                <p>Take a diagnostic, practice by topic, and review your saved scores.</p>
+                <a class="button" href="/subject?subject=reading-writing">Practice Reading &amp; Writing &rarr;</a>
+            </section>
         </main>
     </body>
 </html>
