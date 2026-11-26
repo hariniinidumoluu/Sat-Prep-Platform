@@ -2,6 +2,7 @@ import java.io.*;
 import java.net.URLDecoder;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
+import java.util.ArrayList;
 
 // Displays subject dashboards and topic menus using shared HTML pages
 public class SubjectHandler {
@@ -23,7 +24,7 @@ public class SubjectHandler {
                             || path.equals("/practice")
                             || path.equals("/targeted") 
                             || path.equals("/check");
-        if (!path.equals("/subject") && !path.equals("/topics") && !quizRequest) {
+        if (!path.equals("/subject") && !path.equals("/topics") && !path.equals("/progress") && !quizRequest) {
             return false;
         }
         Subject subject = null;
@@ -35,6 +36,8 @@ public class SubjectHandler {
             }
             if (quizRequest) {
                 QuizHandler.handle(path, requestPath, subject, output);
+            } else if(path.equals("/progress")) {
+                showProgress(subject, output);
             } else {
                 String pagePath = "web/subject.html";
                 if (path.equals("/topics")) {
@@ -86,7 +89,7 @@ public class SubjectHandler {
         String[] names = subject.getTopicNames();
 
         for (int i = 0; i < codes.length; i++) {
-            output.println("<p><a href =\"/practice?subject="
+            output.println("<p><a class=\"button\" href =\"/practice?subject="
                             + encode(subject.getCode())
                             + "&amp;topic=" + encode(codes[i])
                             + "\">" + escape(names[i]) + "</a></p>");
@@ -158,5 +161,40 @@ public class SubjectHandler {
                 .replace("<", "&lt;")
                 .replace(">", "&gt;")
                 .replace("\"", "&quot;");
+    }
+    /**
+     * Shows saved quizzes for the current profile and selected subject.
+     */
+    private static void showProgress(Subject subject, PrintWriter output) throws IOException {
+        ArrayList<QuizResult> results = ProgressStore.load();
+        showTemplatePart(subject, subject.getName() + " Progress", true, output);
+        boolean found = false;
+        for (QuizResult result : results) {
+            // Skips results belonging to another profile/subject.
+            if (!result.getUsername().equals(StudentProfile.getUsername())
+                    || !result.getSubject().equals(subject.getCode())) {
+                continue;
+            } 
+            found = true;
+            output.println("<section>");
+            output.println("<h2>" + escape(result.getMode()) + "</h2>");
+            output.println("<p>Date: " + escape(result.getDate()) + "</p>");
+            output.println("<p>Score: " + result.getScore() + " / " + result.getTotal() + "</p>");
+
+            String[] codes = result.getTopicCodes();
+            int[] correct = result.getTopicCorrect();
+            int[] totals = result.getTopicTotal();
+            for (int i = 0; i < codes.length; i++) {
+                if (totals[i] == 0) {
+                    continue;
+                }
+                output.println("<p>Score: " + escape(codes[i]) + ": " + correct[i] + " / " + totals[i] + "</p>");
+            }
+            output.println("</section>");
+        }
+        if (!found) {
+            output.println("<p>No saved quizzes for this subject yet.</p>");
+        }
+        showTemplatePart(subject, subject.getName() + " Progress", false, output);
     }
 }
