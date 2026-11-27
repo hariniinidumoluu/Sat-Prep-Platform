@@ -1,4 +1,6 @@
 import java.io.*;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeParseException;
 import java.util.*;
 
 public class QuizHandler {
@@ -170,9 +172,13 @@ public class QuizHandler {
         if (questions.isEmpty()) {
             output.println("<p>No questions available yet.</p>");
         } else {
-            output.println("<form action=\"/check\" method=\"GET\">");
+            output.println("<form action=\"/check\" method=\"POST\">");
             hiddenField("subject", subject.getCode(), output);
             hiddenField("mode", mode, output);
+            // Remembers which profile opens this specific quiz.
+            hiddenField("username", StudentProfile.getUsername(), output);
+            // Keeps the same attempt date when the results page is refreshed.
+            hiddenField("attemptDate", LocalDateTime.now().toString(), output);
             String ids = "";
             for (Question question : questions) {
                 if (!ids.isEmpty()) {
@@ -209,6 +215,11 @@ public class QuizHandler {
      * Checks answers using the key stored in the question bank.
      */
     private static void showResults(String requestPath, Subject subject, PrintWriter output) throws IOException {
+        String username = SubjectHandler.getParameter(requestPath, "username");
+        if (!username.equals(StudentProfile.getUsername())) {
+            SubjectHandler.showMessage(subject, "Profile changed", "Please reopen the quiz using your selected profile", output);
+            return;
+        }
         String mode = SubjectHandler.getParameter(requestPath, "mode");
         if (!mode.equals("diagnostic") && !mode.equals("practice") && !mode.equals("targeted")) {
             SubjectHandler.showMessage(subject, "Quiz type not found", "Please open a quiz and submit your answers", output);
@@ -251,7 +262,14 @@ public class QuizHandler {
         if (total == 0) {
             output.println("<p>No matching quiz questions were submitted.</p>");
         } else {
-            String date = java.time.LocalDateTime.now().toString();
+            String date = SubjectHandler.getParameter(requestPath, "attemptDate");
+            try {
+                LocalDateTime.parse(date);
+            } catch (DateTimeParseException e) {
+                output.println("<p>Please reopen the quiz and submit again.</p>");
+                SubjectHandler.showTemplatePart(subject, title, false, output);
+                return;
+            }
             QuizResult result = new QuizResult(StudentProfile.getUsername(), subject.getCode(), mode, date, score, total, subject.getTopicCodes(), topicCorrect, topicTotal, missedIds);
             ProgressStore.save(result);
             output.println("<h2>Score: " + score + " / " + total + "</h2>");
@@ -316,7 +334,7 @@ public class QuizHandler {
             }
         }
         if (!weakTopics.isEmpty()) {
-            output.println("<p><a href=\"/targeted?subject="
+            output.println("<p><a class=\"button\" href=\"/targeted?subject="
                     + SubjectHandler.encode(subject.getCode())
                     + "&amp;topics=" + SubjectHandler.encode(weakTopics)
                     + "\">Practice These Topics</a></p>");
