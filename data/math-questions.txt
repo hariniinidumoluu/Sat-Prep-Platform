@@ -1,189 +1,205 @@
-M1Q1
-1
-Algebra
+math
+algebra
 Linear Equations and Expressions
 Easy
+M1Q1
 A delivery service charges a fixed fee of $9 plus $2.50 per mile. Which expression represents the total cost, in dollars, of a delivery that travels m miles?
+4
 9 + 2.50m
 2.50 + 9m
 11.50m
 9(2.50 + m)
 A
 The total cost is the fixed fee plus the cost per mile multiplied by the number of miles. The expression is 9 + 2.50m.
-M1Q2
-1
-Algebra
+math
+algebra
 Linear Functions
 Medium
+M1Q2
 For a linear function f, f(-2) = 13 and f(4) = -5. What is the value of f(7)?
+4
 -5
 -14
 -8
 7
 B
 The slope is (-5 - 13)/(4 - (-2)) = -18/6 = -3. Using f(x) = -3x + b and f(-2) = 13 gives 13 = 6 + b, so b = 7. Therefore, f(7) = -3(7) + 7 = -14.
-M1Q3
-1
-Advanced Math
+math
+advanced
 Zeros of Quadratic Functions
 Easy
+M1Q3
 The function f is defined by f(x) = x^2 - 5x - 24. What is the positive x-coordinate of an x-intercept of the graph of y = f(x)?
+4
 -3
 3
 -8
 8
 D
 Factor the quadratic as f(x) = (x - 8)(x + 3). Setting each factor equal to zero gives x = 8 or x = -3. The positive x-coordinate is 8.
-M1Q4
-1
-Advanced Math
+math
+advanced
 Exponential Decay
 Medium
+M1Q4
 The function A(t) = 600(0.75)^t models the amount of a substance remaining t hours after an experiment begins. What is the percent decrease in the amount of the substance from t = 1 to t = 3?
+4
 25%
 56.25%
 43.75%
 75%
 C
 The time increases by 2 hours, so the amount is multiplied by (0.75)^2 = 0.5625. This means 56.25% of the original amount at t = 1 remains. The percent decrease is 100% - 56.25% = 43.75%.
-M1Q5
-1
-Problem-Solving & Data Analysis
+math
+data
 Percentages
 Easy
+M1Q5
 Of the 240 visitors to a science museum on a certain day, 54 purchased a special exhibit pass. What percentage of visitors purchased a special exhibit pass?
+4
 18%
 22.5%
 25%
 45%
 B
 Divide the number of visitors who purchased passes by the total number of visitors: 54/240 = 0.225. Multiplying by 100 gives 22.5%.
-M1Q6
-1
-Problem-Solving & Data Analysis
+math
+data
 Two-Way Data and Set Relationships
 Medium
+M1Q6
 In a survey of 150 students, 90 reported enjoying mathematics, 75 reported enjoying science, and 35 reported enjoying both subjects. How many students reported enjoying at least one of these two subjects?
+4
 130
 165
 95
 115
 A
 Add the number of students who enjoy mathematics and science, then subtract those counted twice. The total is 90 + 75 - 35 = 130 students.
-M1Q7
-1
-Geometry & Trigonometry
+math
+geometry
 Pythagorean Theorem
 Easy
+M1Q7
 A rectangle has a length of 12 centimeters and a width of 5 centimeters. What is the length, in centimeters, of its diagonal?
+4
 12
 17
 13
 7
 C
 The diagonal forms the hypotenuse of a right triangle with legs 12 and 5. By the Pythagorean theorem, d^2 = 12^2 + 5^2 = 169. Therefore, d = 13 centimeters.
-M1Q8
-1
-Geometry & Trigonometry
+math
+geometry
 Sector Area of Circles
 Medium
+M1Q8
 A circle has a radius of 10 centimeters. A sector of the circle has a central angle measuring 72 degrees. What is the area of the sector, in square centimeters?
+4
 10π
 36π
 72π
 20π
 D
 The area of the entire circle is π(10)^2 = 100π. The sector represents 72/360 = 1/5 of the circle. Therefore, its area is (1/5)(100π) = 20π square centimeters.
-M2Q1
-2
-Algebra
+math
+algebra
 Linear Equations in Context
 Medium
+M2Q1
 Two machines produce posters at constant rates. Machine A produces 4 posters per minute, and machine B produces 6 posters per minute. Machine A begins operating 12 minutes before machine B. How many minutes must machine B operate before both machines have produced the same total number of posters?
+4
 12
 24
 18
 30
 B
 Let x represent the number of minutes machine B operates. Machine A operates for x + 12 minutes. Set the total numbers of posters equal: 4(x + 12) = 6x. Expanding gives 4x + 48 = 6x, so 48 = 2x and x = 24.
-M2Q2
-2
-Algebra
+math
+algebra
 Linear Functions and Function Notation
 Hard
+M2Q2
 Let f(x) = ax + b, where a and b are constants. If f(-2) = 11 and f(f(-2)) = -15, what is the value of b?
+4
 7
 -7
 2
 11
 A
 Since f(-2) = 11, the second condition means f(11) = -15. The line passes through (-2, 11) and (11, -15). Its slope is (-15 - 11)/(11 - (-2)) = -26/13 = -2. Using f(-2) = 11 gives 11 = -2(-2) + b, so b = 7.
-M2Q3
-2
-Algebra
+math
+algebra
 Systems of Linear Equations in Context
 Hard
+M2Q3
 A shop charges a fixed setup fee plus a constant price for each customized notebook. An order of 8 notebooks costs $130 after an $18 coupon is applied. An order of 12 notebooks costs $186 after an identical $18 coupon is applied. What would an order of 20 notebooks cost without a coupon?
+4
 $280
 $298
 $334
 $316
 D
 Let p be the price per notebook and f be the fixed setup fee. Before the coupon, the first order costs 148 dollars and the second costs 204 dollars. Therefore, 8p + f = 148 and 12p + f = 204. Subtracting gives 4p = 56, so p = 14. Then f = 148 - 8(14) = 36. An order of 20 notebooks costs 20(14) + 36 = 316 dollars.
-M2Q4
-2
-Advanced Math
+math
+advanced
 Quadratic Functions and Vertex Form
 Hard
+M2Q4
 A quadratic function f satisfies f(1) = 12, f(7) = 12, and f(4) = -6. What is the value of f(0)?
+4
 18
 26
 32
 10
 B
 Because f(1) = f(7), the axis of symmetry is halfway between 1 and 7, at x = 4. Write the function in vertex form as f(x) = a(x - 4)^2 - 6. Using f(1) = 12 gives 12 = 9a - 6, so a = 2. Thus f(0) = 2(0 - 4)^2 - 6 = 26.
-M2Q5
-2
-Advanced Math
+math
+advanced
 Exponential Functions with Unknown Constants
 Medium
+M2Q5
 A culture's population is modeled by f(t) = a(b)^t, where a and b are positive constants. If f(0) = 16 and f(2) = 36, what is f(4)?
+4
 81
 54
 64
 72
 A
 Since f(0) = a = 16 and f(2) = 36, we have 16b^2 = 36. Thus b^2 = 9/4. Then f(4) = 16b^4 = 16(9/4)^2 = 16(81/16) = 81.
-M2Q6
-2
-Advanced Math
+math
+advanced
 Quadratic Discriminant and Unknown Constants
 Hard
+M2Q6
 The quadratic equation x^2 - (k + 2)x + 4k = 0 has exactly one real solution, where k is a real constant. What is the sum of all possible values of k?
+4
 4
 8
 12
 16
 C
 A quadratic has exactly one real solution when its discriminant equals zero. Therefore, (k + 2)^2 - 4(1)(4k) = 0. Expanding gives k^2 - 12k + 4 = 0. By the quadratic formula, the possible values are k = 6 + 4sqrt(2) and k = 6 - 4sqrt(2). Their sum is 12.
-M2Q7
-2
-Problem-Solving & Data Analysis
+math
+data
 Conditional Probability
 Hard
+M2Q7
 A greenhouse grows 400 seedlings. Seventy percent belong to species A, and the remaining seedlings belong to species B. Ten percent of species A seedlings fail inspection, while 20% of species B seedlings fail inspection. If one seedling is selected at random from those that failed inspection, what is the probability that it belongs to species B?
+4
 3/10
 1/2
 3/5
 6/13
 D
 There are 0.70(400) = 280 species A seedlings and 120 species B seedlings. Of these, 0.10(280) = 28 species A seedlings and 0.20(120) = 24 species B seedlings fail inspection. A total of 52 seedlings fail. Therefore, the probability that a randomly selected failed seedling belongs to species B is 24/52 = 6/13.
-M2Q8
-2
-Geometry & Trigonometry
+math
+geometry
 Chords and Coordinate Geometry
 Hard
+M2Q8
 A circle in the xy-plane has center (6, -4) and radius 10. A vertical line x = k intersects the circle at two points that are 12 units apart. If k is greater than 6, what is the value of k?
+4
 8
 14
 12

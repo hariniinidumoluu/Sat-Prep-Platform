@@ -1,0 +1,520 @@
+math
+algebra
+Rate of Change in Linear Functions
+Easy
+MTALG01
+For the function y = -4x + 11, how much does y change when x increases by 3?
+4
+-12
+-4
+3
+12
+A
+The slope is -4, meaning y decreases by 4 for each increase of 1 in x. For an increase of 3, the change is -4(3) = -12, not -4.
+math
+algebra
+Solving Linear Equations in Two Variables
+Easy
+MTALG02
+The equation 5x - 3y = 21 is true when x = 6. What is the value of y?
+4
+1
+3
+7
+17
+B
+Substitute x = 6: 30 - 3y = 21. Then -3y = -9, so y = 3. Do not forget that the coefficient of y is negative.
+math
+algebra
+Equations with Distributive Property
+Easy
+MTALG03
+What is the solution of 3(x - 4) = 2x + 5?
+4
+-17
+7
+12
+17
+D
+Distribute first: 3x - 12 = 2x + 5. Subtract 2x and add 12 to obtain x = 17. The -12 comes from distributing 3 to -4.
+math
+algebra
+Systems with Infinitely Many Solutions
+Medium
+MTALG04
+The system 3x - 4y = 6 and 6x - 8y = c has infinitely many solutions. What is c?
+4
+6
+18
+12
+24
+C
+The second equation must be twice the first equation for both to describe the same line. Twice 6 is 12, so c = 12. Matching only the x and y coefficients is not enough.
+math
+algebra
+Compound Inequalities and Integer Solutions
+Medium
+MTALG05
+How many integer values of x satisfy -3 < (2x + 1)/5 <= 5?
+4
+19
+22
+21
+20
+D
+Multiply by 5 to get -15 < 2x + 1 <= 25. Subtract 1 and divide by 2: -8 < x <= 12. The integers -7 through 12 give 20 values; -8 is excluded.
+math
+algebra
+Parallel Lines
+Medium
+MTALG06
+A line is parallel to y = 3x - 5 and passes through (2, 7). What is its y-intercept?
+4
+1
+-1
+5
+13
+A
+Parallel lines have the same slope, 3. Use y = 3x + b and the point (2, 7): 7 = 6 + b, so b = 1. The original line's intercept -5 does not carry over.
+math
+algebra
+Linear Systems in a Mixture Problem
+Medium
+MTALG07
+A shipment contains 25 boxes. Each light box weighs 4 kilograms, and each heavy box weighs 7 kilograms. The boxes together weigh 130 kilograms. How many heavy boxes are in the shipment?
+4
+8
+10
+12
+15
+B
+Let h be the number of heavy boxes. The light-box count is 25 - h, so 7h + 4(25 - h) = 130. Thus 3h = 30 and h = 10. Counting all boxes as heavy would overestimate the weight.
+math
+algebra
+Linear Functions from Constant Differences
+Hard
+MTALG08
+A linear function f satisfies f(x + 2) - f(x) = 14 for every real x. If f(-1) = 3, what is f(4)?
+4
+24
+31
+35
+38
+D
+An increase of 2 in x raises f by 14, so the slope is 7. From x = -1 to x = 4 is an increase of 5, raising f by 35. Therefore, f(4) = 3 + 35 = 38.
+math
+algebra
+Systems with Unknown Coefficients
+Hard
+MTALG09
+The system 2x + ky = 17 and 5x - 2y = 8 has a solution with x = 3 and y > 0. What is k?
+4
+7/22
+11/7
+22/7
+7/2
+C
+Substitute x = 3 into the second equation: 15 - 2y = 8, so y = 7/2. The first equation becomes 6 + (7/2)k = 17. Thus k = 22/7, not 11/7.
+math
+algebra
+Intersection of Two Lines
+Hard
+MTALG10
+The line y = mx + b passes through (2, 7) and (6, 19). At what x-coordinate does this line intersect y = -x + 10?
+4
+9/4
+11/4
+3
+9/2
+A
+The first line has slope (19 - 7)/(6 - 2) = 3 and equation y = 3x + 1. At the intersection, 3x + 1 = -x + 10, so 4x = 9 and x = 9/4.
+math
+advanced
+Multiplying Binomials
+Easy
+MTADV01
+When (x + 5)(x - 2) is expanded and written as x^2 + bx + c, what is b?
+4
+3
+7
+-3
+-10
+A
+Expand to get x^2 - 2x + 5x - 10 = x^2 + 3x - 10. The coefficient of x is 3; -10 is the constant term.
+math
+advanced
+Exponent Rules
+Easy
+MTADV02
+If 3^2 multiplied by 3^x equals 3^7, what is x?
+4
+3
+4
+5
+9
+C
+Multiplying powers with the same base adds exponents: 3^(2 + x) = 3^7. Therefore, 2 + x = 7 and x = 5.
+math
+advanced
+Evaluating Quadratic Functions
+Easy
+MTADV03
+The function h is defined by h(x) = x^2 - 4x + 1. What is h(-1)?
+4
+-4
+-2
+2
+6
+D
+Substitute -1 carefully: h(-1) = (-1)^2 - 4(-1) + 1 = 1 + 4 + 1 = 6. Squaring -1 gives positive 1.
+math
+advanced
+Simplifying Rational Expressions
+Medium
+MTADV04
+Which expression is equivalent to (x^2 - 16)/(x - 4) for x not equal to 4?
+4
+x + 4
+x - 4
+x^2 + 4
+4
+A
+Factor the numerator as (x - 4)(x + 4). Because x is not 4, cancel x - 4, leaving x + 4. Canceling does not make the excluded value x = 4 valid.
+math
+advanced
+Completing the Square
+Medium
+MTADV05
+For every real x, x^2 - 10x + k = (x - 5)^2 + 6. What is k?
+4
+19
+25
+36
+31
+D
+Expand the right side: (x - 5)^2 + 6 = x^2 - 10x + 25 + 6 = x^2 - 10x + 31. Thus k = 31, not 25.
+math
+advanced
+Comparing Exponential Function Values
+Medium
+MTADV06
+The function g is defined by g(x) = 5(2^x). For any real x, what is g(x + 3)/g(x)?
+4
+8
+5
+3
+15
+A
+The quotient is [5(2^(x + 3))]/[5(2^x)] = 2^3 = 8. Adding 3 to the exponent multiplies the function value by 8, not by 3.
+math
+advanced
+Solutions of Squared Equations
+Medium
+MTADV07
+The equation (x - 1)^2 = 25 has two real solutions. What is the sum of those solutions?
+4
+-4
+10
+6
+2
+D
+Take both square-root possibilities: x - 1 = 5 or x - 1 = -5. The solutions are 6 and -4, whose sum is 2. Using only the positive square root misses a solution.
+math
+advanced
+Solving Equations with Different Exponential Bases
+Hard
+MTADV08
+What is the solution to 4^(x + 1) = 8^(2x - 1)?
+4
+-1/4
+3/4
+5/4
+2
+C
+Rewrite both sides with base 2: 2^(2x + 2) = 2^(6x - 3). Equate exponents: 2x + 2 = 6x - 3, so 4x = 5 and x = 5/4.
+math
+advanced
+Polynomial Identities and Rational Expressions
+Hard
+MTADV09
+For all x not equal to -2, (x^2 + ax + 4)/(x + 2) = x + b, where a and b are constants. What is a + b?
+4
+4
+6
+8
+10
+B
+Multiply by x + 2 to get x^2 + ax + 4 = (x + 2)(x + b) = x^2 + (b + 2)x + 2b. Since 2b = 4, b = 2 and a = 4. Their sum is 6.
+math
+advanced
+Compositions of Functions and Multiple Solutions
+Hard
+MTADV10
+Let f(x) = 2x + 3 and g(x) = x^2 - 4. What is the sum of all real solutions to g(f(x)) = 21?
+4
+-5
+-3
+1
+5
+B
+Substitute f(x) into g: (2x + 3)^2 - 4 = 21, so (2x + 3)^2 = 25. Thus 2x + 3 = 5 or -5, giving x = 1 or -4. Their sum is -3.
+math
+data
+Modes in Data Sets
+Easy
+MTDATA01
+The five values in a data set are 4, 6, 6, 8, and 11. What is the mode of the data set?
+4
+4
+6
+7
+8
+B
+The mode is the value that occurs most often. Only 6 appears twice, so the mode is 6. The mean and median are different measures.
+math
+data
+Scale Drawings and Unit Rates
+Easy
+MTDATA02
+On a map, 1 centimeter represents 8 kilometers. Two towns are 3.5 centimeters apart on the map. What is their actual distance, in kilometers?
+4
+24
+26
+28
+30
+C
+Multiply the map distance by the scale: 3.5(8) = 28 kilometers. Dividing by 8 would reverse the units.
+math
+data
+Effects of Shifting Data Values
+Easy
+MTDATA03
+Every value in a data set is increased by 5. What happens to the mean of the data set?
+4
+It stays the same.
+It increases by 1.
+It increases by 5.
+It is multiplied by 5.
+C
+Adding 5 to every value increases the total by 5 times the number of values. After dividing by that number, the mean increases by 5.
+math
+data
+Complementary Probability
+Medium
+MTDATA04
+A bag contains 30 marbles, of which 12 are green and 8 are yellow. The rest are blue. If one marble is chosen at random, what is the probability it is not yellow?
+4
+4/15
+2/5
+4/5
+11/15
+D
+There are 30 - 8 = 22 marbles that are not yellow. The probability is 22/30 = 11/15. The number of green marbles alone is not the count of all non-yellow marbles.
+math
+data
+Combining Group Means
+Medium
+MTDATA05
+The mean score of 20 students is 70, and the mean score of 10 other students is 85. What is the mean score of all 30 students?
+4
+75
+72.5
+77.5
+80
+A
+The combined total is 20(70) + 10(85) = 2250. Divide by 30 to get 75. Taking the simple average of 70 and 85 would wrongly give equal weight to unequal groups.
+math
+data
+Interpreting Residuals
+Medium
+MTDATA06
+A line of best fit predicts y = 8x + 12. At x = 7, the observed value of y is 63. What is the residual, defined as observed minus predicted?
+4
+-5
+5
+63
+68
+A
+The predicted value is 8(7) + 12 = 68. The residual is 63 - 68 = -5. A negative residual means the observation is below the prediction.
+math
+data
+Margin of Error
+Medium
+MTDATA07
+A random survey estimates that 62% of residents support a proposal, with a margin of error of 3 percentage points. Which interval represents the estimate with its stated margin of error?
+4
+62% to 65%
+59% to 65%
+59% to 62%
+56% to 68%
+B
+Subtract and add 3 percentage points to 62% to obtain 59% to 65%. The margin is applied on both sides, not only above or below the estimate.
+math
+data
+Combining Overlapping Data Sets
+Hard
+MTDATA08
+Data set A contains 6 scores with a mean of 15. Data set B contains 5 scores with a mean of 20. Exactly one score, equal to 10, appears in both sets because it belongs to the same student. What is the mean of the 10 distinct students' scores?
+4
+17
+19
+20
+18
+D
+The two sums are 6(15) = 90 and 5(20) = 100. Subtract the duplicated score of 10 to get 180. There are 6 + 5 - 1 = 10 distinct students, so the mean is 180/10 = 18.
+math
+data
+Average Speed and Weighted Rates
+Hard
+MTDATA09
+A driver travels 30 miles at a constant speed of 30 miles per hour and then 90 miles at a constant speed of 60 miles per hour. What is the average speed, in miles per hour, for the entire trip?
+4
+45
+50
+48
+54
+C
+The first part takes 30/30 = 1 hour and the second takes 90/60 = 1.5 hours. Average speed is total distance divided by total time: 120/2.5 = 48 miles per hour. Do not average the two speeds directly.
+math
+data
+Independent Events and Exactly One Success
+Hard
+MTDATA10
+Two independent sensors detect a signal with probabilities 0.7 and 0.6, respectively. What is the probability that exactly one sensor detects the signal?
+4
+0.18
+0.28
+0.58
+0.46
+D
+Exactly one detection occurs if the first succeeds and second fails, or vice versa. Add 0.7(0.4) + 0.3(0.6) = 0.28 + 0.18 = 0.46. Multiplying 0.7 and 0.6 would find the probability that both detect it.
+math
+geometry
+Supplementary Angles
+Easy
+MTGEO01
+Two intersecting lines form adjacent angles measuring 137 degrees and x degrees. What is x?
+4
+37
+43
+47
+137
+B
+Adjacent angles that form a straight line add to 180 degrees. Therefore, x = 180 - 137 = 43 degrees, not 137 degrees.
+math
+geometry
+Volume of a Cylinder
+Easy
+MTGEO02
+A right circular cylinder has radius 2 centimeters and height 7 centimeters. What is its volume, in cubic centimeters?
+4
+14π
+56π
+196π
+28π
+D
+The volume formula is πr^2h. Substitute r = 2 and h = 7 to get π(2^2)(7) = 28π. The radius must be squared.
+math
+geometry
+Midpoint Formula
+Easy
+MTGEO03
+What are the coordinates of the midpoint of the segment with endpoints (-4, 3) and (8, 7)?
+4
+(2, 5)
+(4, 5)
+(2, 10)
+(-2, 5)
+A
+Average the x-coordinates and y-coordinates separately: (-4 + 8)/2 = 2 and (3 + 7)/2 = 5. The midpoint is (2, 5).
+math
+geometry
+Exterior Angles of Triangles
+Medium
+MTGEO04
+Two remote interior angles of a triangle measure 42 degrees and 65 degrees. What is the measure of the exterior angle adjacent to the triangle's third interior angle?
+4
+73
+97
+107
+115
+C
+An exterior angle equals the sum of the two remote interior angles. Therefore, the exterior angle is 42 + 65 = 107 degrees, not 180 - 107.
+math
+geometry
+Perimeters of Similar Figures
+Medium
+MTGEO05
+The ratio of corresponding side lengths of two similar triangles is 5:8, smaller to larger. If the smaller triangle has perimeter 30, what is the perimeter of the larger triangle?
+4
+48
+18.75
+37.5
+60
+A
+Perimeters scale by the same factor as side lengths. Multiply 30 by 8/5 to get 48. Do not square the scale factor; that is for areas.
+math
+geometry
+Area of Triangles on the Coordinate Plane
+Medium
+MTGEO06
+A triangle has vertices (1, -2), (5, -2), and (1, 4). What is its area, in square units?
+4
+10
+12
+16
+24
+B
+The horizontal side is 5 - 1 = 4 units, and the vertical side is 4 - (-2) = 6 units. The triangle is right, so its area is (1/2)(4)(6) = 12 square units.
+math
+geometry
+Special Right Triangles
+Medium
+MTGEO07
+A right triangle has a hypotenuse of length 20 and an acute angle of 30 degrees. What is the length of the side opposite the 30-degree angle?
+4
+5
+10sqrt(3)
+20
+10
+D
+In a 30-60-90 right triangle, the side opposite the 30-degree angle is half the hypotenuse. Half of 20 is 10. The longer leg is 10sqrt(3), not the side opposite 30 degrees.
+math
+geometry
+Comparing Volumes of Cones and Cylinders
+Hard
+MTGEO08
+A cone has radius 6 centimeters and height 9 centimeters. Its volume is poured into identical cylinders, each with radius 3 centimeters and height 4 centimeters. How many cylinders can be filled completely?
+4
+2
+4
+6
+3
+D
+The cone's volume is (1/3)π(6^2)(9) = 108π. Each cylinder holds π(3^2)(4) = 36π. The number of full cylinders is 108π/36π = 3.
+math
+geometry
+Areas of Concentric Circles
+Hard
+MTGEO09
+Two concentric circles have radii R and r, with R = 3r. The area of the region between the circles is 72π square units. What is r?
+4
+2
+6
+3
+9
+C
+The ring's area is π(R^2 - r^2). Using R = 3r gives π(9r^2 - r^2) = 8πr^2 = 72π. Thus r^2 = 9 and r = 3 because a radius is positive.
+math
+geometry
+Area of Regular Hexagons
+Hard
+MTGEO10
+A regular hexagon has side length 6 units and apothem 3sqrt(3) units. What is its area, in square units?
+4
+18sqrt(3)
+36sqrt(3)
+54sqrt(3)
+108sqrt(3)
+C
+The area of a regular polygon is (1/2)(perimeter)(apothem). The hexagon's perimeter is 6(6) = 36, so the area is (1/2)(36)(3sqrt(3)) = 54sqrt(3).

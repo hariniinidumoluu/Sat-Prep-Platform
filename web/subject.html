@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>{{SUBJECT_NAME}} Dashboard</title>
+        <link rel="stylesheet" href="/style.css">
+    </head>
+    <body>
+        <main>
+            <h1>{{SUBJECT_NAME}} Dashboard</h1>
+            <p>Start with the diagnostic to explore your strengths and areas to practice.</p>
+
+            <section>
+                <h2>Diagnostic Assessment</h2>
+                <p>Answer 16 questions and review your score and explanations.</p>
+                <a class="button" href="/diagnostic?subject={{SUBJECT_CODE}}">Take {{SUBJECT_NAME}} Diagnostic</a>
+            </section>
+
+            <section>
+                <h2>Practice by Topic</h2>
+                <p>Choose a topic and select a practice quiz.</p>
+                <a class="button" href="/topics?subject={{SUBJECT_CODE}}">Choose a topic</a>
+            </section>
+
+            <section>
+                <h2>View Progress</h2>
+                <p>Review previous scores and track improvement.</p>
+                <p><a class="button" href="/progress?subject={{SUBJECT_CODE}}">View Progress</a></p>
+            </section>
+
+            <a class="button" href="/">&larr; Back to home</a>
+        </main>
+    </body>
+</html>

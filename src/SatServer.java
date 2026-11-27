@@ -1,9 +1,8 @@
 import java.io.*;
 import java.net.*;
 /**
- * Serves the SAT Prep webpages and loads Math questions from a text file.
- * Checks submitted answers using question IDs and displays feedback with 
- * explanations.
+ * Runs the SAT Prep server and displays the website.
+ * Uses the SubjectHandler to handle the subject pages and quizzes.
  */
 public class SatServer {
     public static void main(String[] args) {
@@ -13,122 +12,117 @@ public class SatServer {
             while (true) {
                 Socket client = server.accept();
                 IO.println("Browser connected");
-                BufferedReader input = new BufferedReader(new InputStreamReader(client.getInputStream()));
-                String requestLine = input.readLine();
-                String line = requestLine;
-                while (line != null && !line.isEmpty()) {
-                    line = input.readLine();
-                }
-                PrintWriter output = new PrintWriter(client.getOutputStream(), true);
-                output.print("HTTP/1.1 200 OK\r\n");
-                output.print("Content-Type: text/html; charset=UTF-8\r\n");
-                output.print("Connection: close\r\n");
-                output.print("\r\n");
-                /*
-                 * Gets the submitted answers against the question file and
-                 * displays feedback, explanations, and the total score.
-                 */
-                if (requestLine != null && requestLine.startsWith("GET /check-math?")) {
-                    String requestPath = requestLine.split(" ")[1];
-                    String query = requestPath.substring(requestPath.indexOf("?") + 1);
-                    String[] parameters = query.split("&");
-                    int score = 0;
-                    int total = 0;
-
-                    BufferedReader questions = new BufferedReader(new FileReader("data/math-questions.txt"));
-                    String id = questions.readLine();
-                    while (id != null) {
-                        String module = questions.readLine();
-                        String topic = questions.readLine();
-                        String questionText = questions.readLine();
-                        String a = questions.readLine();
-                        String b = questions.readLine();
-                        String c = questions.readLine();
-                        String d = questions.readLine();
-                        String answer = questions.readLine();
-                        String explanation = questions.readLine();
-
-                        if (answer == null || explanation == null) {
-                            throw new IOException("Incomplete question entry: " + id);
-                        } 
-                        String submittedAnswer = "";
-                        for (String parameter : parameters) {
-                            String[] parts = parameter.split("=", 2);
-                            if (parts.length == 2 && parts[0].equals(id.trim())) {
-                                submittedAnswer = parts[1];
-                                break;
-                            } 
+                try (client) {
+                    client.setSoTimeout(5000);
+                    BufferedReader input = new BufferedReader(new InputStreamReader(client.getInputStream()));
+                    String requestLine = input.readLine();
+                    int contentLength = 0;
+                    String line = input.readLine();
+                    while (line != null && !line.isEmpty()) {
+                        if (line.toLowerCase().startsWith("content-length:")) {
+                            contentLength = Integer.parseInt(line.substring(15).trim());
+                            if (contentLength < 0 || contentLength > 100000) {
+                                throw new IOException("Invalid form length.");
+                            }
                         }
-                        total++;
-                        output.println("<h3>" + id + "</h3>");
-                        if (answer.trim().equals(submittedAnswer)) {
-                            score++;
-                            output.println("<p>Correct!</p>");
-                        } else {
-                            output.println("<p>Incorrect! Correct answer: " + answer.trim() + "</p>");
-                        }
-                        output.println("<p>" + explanation + "</p>");
-                        id = questions.readLine();
+                        line = input.readLine();
                     }
-                    questions.close();
-                    output.println("<h2>Score: " + score + " / " + total + "</h2>");
-                    output.println("<a href=\"/math\">Back to SAT Math</a>");
-                    client.close();
-                    continue;
-                }
-                String pagePath = "web/index.html";
-                if (requestLine != null && requestLine.startsWith("GET /math ")) {
-                    pagePath = "web/math.html";
-                } else if (requestLine != null && requestLine.startsWith("GET /reading-writing ")) {
-                    pagePath = "web/reading-writing.html";
-                }
-                BufferedReader page = new BufferedReader(new FileReader(pagePath));
-                String pageLine = page.readLine();
-                /*
-                 * Displays the webpage and inserts Math questions with answer choices
-                 * into one form so students can submit all answers together. 
-                 */
-                while (pageLine != null) {
-                    if (pagePath.equals("web/math.html")
-                            && pageLine.contains("<!-- MATH_QUESTIONS -->")) {
-                        BufferedReader questions = new BufferedReader(new FileReader("data/math-questions.txt"));
-                        String id = questions.readLine();
-
-                        output.println("<form action=\"/check-math\" method=\"GET\">");
-                        while (id != null) {
-                            String module = questions.readLine();
-                            String topic = questions.readLine();
-                            String questionText = questions.readLine();
-                            String a = questions.readLine();
-                            String b = questions.readLine();
-                            String c = questions.readLine();
-                            String d = questions.readLine();
-                            String answer = questions.readLine();
-                            String explanation = questions.readLine();
-                            
-                            output.println("<h3>" + id + " - " + topic + "</h3>");
-                            output.println("<p>" + questionText + "</p>");
-                            
-                            output.println("<input type=\"radio\" name=\"" + id + "\" value=\"A\" required> A) " + a + "<br>");
-                            output.println("<input type=\"radio\" name=\"" + id + "\" value=\"B\" > B) " + b + "<br>");
-                            output.println("<input type=\"radio\" name=\"" + id + "\" value=\"C\" > C) " + c + "<br>");
-                            output.println("<input type=\"radio\" name=\"" + id + "\" value=\"D\" > D) " + d + "<br>");
-                            output.println("<hr>");
-                            id = questions.readLine();
+                    if (requestLine != null && requestLine.startsWith("POST /check ")) {
+                        String body = "";
+                        for (int i = 0; i < contentLength; i++) {
+                            int character = input.read();
+                            if (character == -1) {
+                                throw new IOException("Incomplete quiz submission.");
+                            }
+                            body += (char) character;
                         }
-                        questions.close();
-                        output.println("<button type=\"submit\">Submit Test</button>");
-                        output.println("</form>");
-                    } else {
-                        output.println(pageLine);
+                        // Passes the submitted data to the existing handlers.
+                        requestLine = "GET /check?" + body + " HTTP/1.1";
                     }
-                    pageLine = page.readLine();
+                    PrintWriter output = new PrintWriter(client.getOutputStream(), true);
+                    if (requestLine != null && requestLine.startsWith("GET /style.css ")) {
+                        output.print("HTTP/1.1 200 OK\r\n");
+                        output.print("Content-Type: text/css; charset=UTF-8\r\n");
+                        output.print("Connection: close\r\n");
+                        output.print("\r\n");
+                        try {
+                            showPage("web/style.css", "", output);
+                        } catch (IOException e) {
+                            IO.println("Stylesheet error: " + e.getMessage());
+                        }
+                        output.flush();
+                        continue;
+                    }
+                    output.print("HTTP/1.1 200 OK\r\n");
+                    output.print("Content-Type: text/html; charset=UTF-8\r\n");
+                    output.print("Connection: close\r\n");
+                    output.print("\r\n");
+
+                    if (requestLine != null) {
+                        try {
+                            showRequestedPage(requestLine, output);
+                        } catch (IOException e) {
+                            IO.println("Page error: " + e.getMessage());
+                            output.println("<p>This page could not be completed because " + "a required file could not be read or written.</p>");
+                            output.println("<link rel=\"stylesheet\" href=\"/style.css\">");
+                            output.println("<p><a class=\"button\" href=\"/\">Back to home</a></p>");
+                        }
+                    } 
+                    output.flush();
+                } catch (Exception e) {
+                    IO.println("Request error: " + e.getMessage());
                 }
-                page.close();
-                client.close();
-            }
+            } 
         } catch (Exception e) {
-            IO.println("Server error: " + e.getMessage());
+                IO.println("Server error: " + e.getMessage());
+        }
+    }
+    /**
+     * Handles profile selection before opening the usual website pages.
+     */
+    private static void showRequestedPage(String requestLine, PrintWriter output) throws IOException {
+        String[] parts = requestLine.split(" ");
+        if (parts.length < 2 || !parts[0].equals("GET")) {
+            output.println("<p>Invalid request.</p>");
+            return;
+        }
+        String requestPath = parts[1];
+        String path = requestPath.split("\\?", 2)[0];
+        if (path.equals("/switch-profile")) {
+            StudentProfile.clear();
+            showPage("web/profile.html", "", output);
+            return;
+        }
+        if (path.equals("/profile")) {
+            String username = SubjectHandler.getParameter(requestPath, "username");
+            if (!StudentProfile.select(username)) {
+                showPage("web/profile.html", "Use 3-20 letters, numbers, or underscores.", output);
+                return;
+            }
+            showPage("web/index.html", "", output);
+            return;
+        }
+        if (!StudentProfile.isSelected()) {
+            showPage("web/profile.html", "", output);
+            return;
+        }
+        if (SubjectHandler.handle(requestLine, output)) {
+            return;
+        }
+        showPage("web/index.html", "", output);
+    }
+    /**
+     * Reads a page and fills in the profile name or message.
+     */
+    private static void showPage(String filePath, String message, PrintWriter output) throws IOException {
+        try (BufferedReader page = new BufferedReader(new FileReader(filePath))) {
+            String line = page.readLine();
+            while (line != null) {
+                line = line.replace("{{MESSAGE}}", SubjectHandler.escape(message));
+                line = line.replace("{{USERNAME}}", SubjectHandler.escape(StudentProfile.getUsername()));
+                output.println(line);
+                line = page.readLine();
+            }
         }
     }
 }

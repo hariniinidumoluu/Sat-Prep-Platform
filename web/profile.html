@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Choose Profile</title>
+        <link rel="stylesheet" href="/style.css">
+    </head>
+    <body>
+        <main>
+            <h1>Choose Your Profile</h1>
+            <p>Enter a username to save and reopen your progress.</p>
+            <p>{{MESSAGE}}</p>
+            <form action="/profile" method="GET">
+                <p>
+                    <label for="username">Username:</label>
+                    <input type="text" id="username" name="username"
+                           pattern="[A-Za-z0-9_]{3,20}"
+                           minlength="3" maxlength="20" required>
+                </p>
+                <p>Use 3-20 letters, numbers, or underscores.</p>
+                <button type="submit">Open Profile</button>
+            </form>
+            <p>Use the same username each time you return.</p>
+        </main>
+    </body>
+</html>
