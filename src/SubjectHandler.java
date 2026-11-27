@@ -2,6 +2,8 @@ import java.io.*;
 import java.net.URLDecoder;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeParseException;
 import java.util.ArrayList;
 
 // Displays subject dashboards and topic menus using shared HTML pages
@@ -127,7 +129,7 @@ public class SubjectHandler {
     public static void showMessage(Subject subject, String title, String message, PrintWriter output) throws IOException {
         showTemplatePart(subject, title, true, output);
         output.println("<p>" + escape(message) + "</p>");
-        output.println("<p><a href=\"/\">Back to home</a></p>");
+        output.println("<p><a class=\"button\" href=\"/\">Back to home</a></p>");
         showTemplatePart(subject, title, false, output);
     }
     /**
@@ -178,7 +180,14 @@ public class SubjectHandler {
             found = true;
             output.println("<section>");
             output.println("<h2>" + escape(result.getMode()) + "</h2>");
-            output.println("<p>Date: " + escape(result.getDate()) + "</p>");
+            String displayDate;
+            try {
+                LocalDateTime.parse(result.getDate());
+                displayDate = result.getDate().substring(0, 16).replace("T", " ");
+            } catch (DateTimeParseException e) {
+                displayDate = "Date unavailable";
+            }
+            output.println("<p>Date: " + escape(displayDate) + "</p>");
             output.println("<p>Score: " + result.getScore() + " / " + result.getTotal() + "</p>");
 
             String[] codes = result.getTopicCodes();
