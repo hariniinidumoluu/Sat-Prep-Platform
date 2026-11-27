@@ -12,36 +12,69 @@ public class SatServer {
             while (true) {
                 Socket client = server.accept();
                 IO.println("Browser connected");
-                BufferedReader input = new BufferedReader(new InputStreamReader(client.getInputStream()));
-                String requestLine = input.readLine();
-                String line = requestLine;
-                while (line != null && !line.isEmpty()) {
-                    line = input.readLine();
-                }
-                PrintWriter output = new PrintWriter(client.getOutputStream(), true);
-                if (requestLine != null && requestLine.startsWith("GET /style.css ")) {
+                try (client) {
+                    client.setSoTimeout(5000);
+                    BufferedReader input = new BufferedReader(new InputStreamReader(client.getInputStream()));
+                    String requestLine = input.readLine();
+                    int contentLength = 0;
+                    String line = input.readLine();
+                    while (line != null && !line.isEmpty()) {
+                        if (line.toLowerCase().startsWith("content-length:")) {
+                            contentLength = Integer.parseInt(line.substring(15).trim());
+                            if (contentLength < 0 || contentLength > 100000) {
+                                throw new IOException("Invalid form length.");
+                            }
+                        }
+                        line = input.readLine();
+                    }
+                    if (requestLine != null && requestLine.startsWith("POST /check ")) {
+                        String body = "";
+                        for (int i = 0; i < contentLength; i++) {
+                            int character = input.read();
+                            if (character == -1) {
+                                throw new IOException("Incomplete quiz submission.");
+                            }
+                            body += (char) character;
+                        }
+                        // Passes the submitted data to the existing handlers.
+                        requestLine = "GET /check?" + body + " HTTP/1.1";
+                    }
+                    PrintWriter output = new PrintWriter(client.getOutputStream(), true);
+                    if (requestLine != null && requestLine.startsWith("GET /style.css ")) {
+                        output.print("HTTP/1.1 200 OK\r\n");
+                        output.print("Content-Type: text/css; charset=UTF-8\r\n");
+                        output.print("Connection: close\r\n");
+                        output.print("\r\n");
+                        try {
+                            showPage("web/style.css", "", output);
+                        } catch (IOException e) {
+                            IO.println("Stylesheet error: " + e.getMessage());
+                        }
+                        output.flush();
+                        continue;
+                    }
                     output.print("HTTP/1.1 200 OK\r\n");
-                    output.print("Content-Type: text/css; charset=UTF-8\r\n");
+                    output.print("Content-Type: text/html; charset=UTF-8\r\n");
                     output.print("Connection: close\r\n");
                     output.print("\r\n");
-                    showPage("web/style.css", "", output);
-                    output.flush();
-                    client.close();
-                    continue;
-                }
-                output.print("HTTP/1.1 200 OK\r\n");
-                output.print("Content-Type: text/html; charset=UTF-8\r\n");
-                output.print("Connection: close\r\n");
-                output.print("\r\n");
 
-                if (requestLine != null) {
-                    showRequestedPage(requestLine, output);
+                    if (requestLine != null) {
+                        try {
+                            showRequestedPage(requestLine, output);
+                        } catch (IOException e) {
+                            IO.println("Page error: " + e.getMessage());
+                            output.println("<p>This page could not be completed because " + "a required file could not be read or written.</p>");
+                            output.println("<link rel=\"stylesheet\" href=\"/style.css\">");
+                            output.println("<p><a class=\"button\" href=\"/\">Back to home</a></p>");
+                        }
+                    } 
+                    output.flush();
+                } catch (Exception e) {
+                    IO.println("Request error: " + e.getMessage());
                 }
-                output.flush();
-                client.close();
-            }
+            } 
         } catch (Exception e) {
-            IO.println("Server error: " + e.getMessage());
+                IO.println("Server error: " + e.getMessage());
         }
     }
     /**
