@@ -1,0 +1,286 @@
+math
+algebra
+Systems of linear equations
+Medium
+FMH001
+A concert sells 20 tickets. Adult tickets cost $14 and youth tickets cost $8. Total sales are $226. How many adult tickets were sold?
+4
+9
+10
+11
+12
+C
+Let a be adult tickets: 14a + 8(20 - a) = 226, so 6a = 66 and a = 11.
+math
+advanced
+Composition of functions
+Medium
+FMH002
+If f(x) = 2x + 3 and g(x) = x² - 1, what is g(f(2))?
+4
+24
+36
+48
+63
+C
+First f(2) = 7, then g(7) = 49 - 1 = 48.
+math
+geometry
+Sector area
+Medium
+FMH003
+A sector has a central angle of 90° in a circle of radius 8. What is its area?
+4
+8π
+16π
+32π
+64π
+B
+A 90° sector is one fourth of the circle: (1/4)π(8²) = 16π.
+math
+data
+Regression interpretation
+Medium
+FMH004
+A line of best fit predicts 4 additional visitors per degree increase in temperature. If it predicts 120 visitors at 70°, what does it predict at 75°?
+4
+125
+130
+140
+145
+C
+A 5-degree increase adds 5 × 4 = 20 visitors, giving 140.
+math
+algebra
+Inequality systems
+Medium
+FMH005
+If 2x + 3 < 15 and x - 1 ≥ 2, which value could be x?
+4
+2
+3
+6
+7
+B
+The conditions are x < 6 and x ≥ 3, so x = 3 is the only listed possibility.
+math
+advanced
+Quadratic equations
+Medium
+FMH006
+The solutions to x² + 6x - 16 = 0 are -8 and what other number?
+4
+-2
+2
+6
+8
+B
+Factor as (x + 8)(x - 2) = 0. The other root is 2.
+math
+data
+Weighted percentages
+Medium
+FMH007
+A store sells 30 shirts at $12 each and 20 shirts at $18 each. What is the average selling price per shirt?
+4
+$13.20
+$14.40
+$15.00
+$15.60
+B
+Total revenue is 30(12) + 20(18) = 720 dollars for 50 shirts, so the average is $14.40.
+math
+geometry
+Surface area
+Medium
+FMH008
+A cube has volume 125 cubic inches. What is its surface area in square inches?
+4
+25
+75
+125
+150
+D
+The side length is 5, so surface area is 6(5²) = 150.
+math
+advanced
+Exponential models
+Medium
+FMH009
+A quantity follows P(t) = 250(1.2)^t. What is P(2)?
+4
+300
+330
+360
+400
+C
+P(2) = 250(1.2)² = 250(1.44) = 360.
+math
+algebra
+Linear function constraints
+Medium
+FMH010
+A line passes through (4, 3) and (10, -9). What is its y-intercept?
+4
+-5
+3
+11
+19
+C
+The slope is (-9 - 3)/(10 - 4) = -2. Since 3 = -2(4) + b, b = 11.
+math
+advanced
+Quadratic discriminants
+Hard
+FMH011
+The equation x² - 6x + k = 0 has two distinct real solutions. Which value of k could it have?
+4
+8
+9
+10
+12
+A
+Two distinct real roots require the discriminant 36 - 4k > 0, so k < 9. Only 8 qualifies.
+math
+geometry
+Similar figures
+Hard
+FMH012
+A rectangular poster is enlarged so that its area increases from 48 to 108 square inches without changing its proportions. By what factor is each side length multiplied?
+4
+1.25
+1.5
+2
+2.25
+B
+The area scale factor is 108/48 = 9/4. The length factor is √(9/4) = 3/2.
+math
+data
+Conditional probability
+Hard
+FMH013
+Of 90 students, 54 play an instrument. Among those 54 students, 18 also play a sport. If a student who plays an instrument is selected at random, what is the probability that the student also plays a sport?
+4
+1/5
+1/3
+2/5
+3/5
+B
+Given that the student plays an instrument, there are 54 possibilities; 18 play a sport, so 18/54 = 1/3.
+math
+advanced
+Rational functions
+Hard
+FMH014
+For x ≠ -3, the expression (x² + 7x + 12)/(x + 3) equals 10. What is x?
+4
+4
+5
+6
+7
+C
+Factor (x + 3)(x + 4), cancel x + 3, and solve x + 4 = 10. Thus x = 6.
+math
+algebra
+Parameter constraints
+Hard
+FMH015
+For what value of a does the system 3x + 2y = 14 and 6x + ay = 28 have infinitely many solutions?
+4
+2
+3
+4
+6
+C
+The second equation must be twice the first, so a = 2(2) = 4.
+math
+geometry
+Right triangle trigonometry
+Hard
+FMH016
+In a right triangle, sin θ = 5/13 for an acute angle θ. What is cos θ?
+4
+5/12
+12/13
+13/12
+5/13
+B
+Use the 5-12-13 right triangle: the adjacent side is 12 and hypotenuse 13, so cos θ = 12/13.
+math
+data
+Exponential percentage change
+Hard
+FMH017
+A population falls by 10% each year. After two years it is 729. What was the population before those two years?
+4
+810
+850
+900
+990
+C
+Let the original be P. Then 0.9²P = 729, so P = 729/0.81 = 900.
+math
+advanced
+Quadratic maximum
+Hard
+FMH018
+A ball follows h(t) = -5t² + 30t + 2, where t is in seconds. What is its maximum height?
+4
+32
+42
+47
+52
+C
+The vertex is at t = -30/(2 × -5) = 3. Then h(3) = -45 + 90 + 2 = 47.
+math
+algebra
+Linear models with inequalities
+Hard
+FMH019
+A caterer charges $120 plus $18 per person. A group has at most $390 to spend. What is the greatest whole number of people the group can serve?
+4
+14
+15
+16
+17
+B
+Solve 120 + 18p ≤ 390: p ≤ 15, so at most 15 people.
+math
+geometry
+Coordinate geometry
+Hard
+FMH020
+A circle centered at (3, -2) passes through (9, 6). What is its radius?
+4
+8
+9
+10
+12
+C
+The radius is the distance between the points: √((9-3)² + (6+2)²) = √100 = 10.
+math
+advanced
+Polynomial factor theorem
+Hard
+FMH021
+If x - 3 is a factor of p(x) = x³ + ax² - 9x + 9, what is a?
+4
+-3
+-1
+1
+3
+B
+By the factor theorem, p(3) = 0: 27 + 9a - 27 + 9 = 0, so 9a = -9 and a = -1.
+math
+data
+Standard deviation intuition
+Hard
+FMH022
+Two data sets have the same mean of 20. Set A is 18, 19, 20, 21, 22. Set B is 10, 15, 20, 25, 30. Which statement is true?
+4
+Set A has greater standard deviation.
+Set B has greater standard deviation.
+Both have standard deviation zero.
+Both have the same standard deviation.
+B
+Set B has values farther from the shared mean of 20, so it has the larger standard deviation.

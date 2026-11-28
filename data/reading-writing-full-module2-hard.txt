@@ -1,0 +1,351 @@
+reading-writing
+information
+Evidence evaluation
+Medium
+FRH001
+Researchers planted the same type of grass in two greenhouses. The greenhouse with reflective walls produced plants averaging 18 centimeters tall; the other produced plants averaging 14 centimeters. Both received equal amounts of water and fertilizer. Which conclusion is best supported?
+4
+Reflective walls were associated with greater average plant height in this experiment.
+Reflective walls guarantee taller plants of every species.
+The greenhouse without reflective walls received less water.
+Fertilizer had no role in plant growth.
+A
+The experiment isolates a difference in wall reflectivity and reports greater average height in that condition.
+reading-writing
+information
+Central ideas
+Medium
+FRH002
+Archaeologists once believed a mountain settlement was abandoned abruptly. New evidence of repeated repairs to its houses and the gradual disappearance of imported goods suggests that residents left over several decades. The evidence has led researchers to reconsider the settlement’s final years. What is the main idea?
+4
+The settlement was never occupied.
+New findings suggest the settlement’s decline was gradual rather than sudden.
+Imported goods were more valuable than housing.
+The settlement was built entirely in one decade.
+B
+The repairs and declining imports support a more gradual departure than previously believed.
+reading-writing
+information
+Cross-text synthesis
+Hard
+FRH003
+Text 1: Scientist Alvarez argues that the sharp decline of a local bird species is primarily due to the loss of nesting habitat. Text 2: Scientist Chen finds that areas with suitable nesting sites still experienced declines where insect populations fell substantially. Which statement best describes Chen’s findings in relation to Alvarez’s claim?
+4
+They show habitat loss has no effect on birds.
+They identify another potential factor in addition to habitat loss.
+They prove nesting habitat is the only relevant factor.
+They establish that insect populations increased in every area.
+B
+Chen’s observations suggest food availability may also affect bird declines.
+reading-writing
+information
+Interpreting data
+Hard
+FRH004
+A study tracked 120 rooftop gardens. Of 70 gardens with automatic irrigation, 56 produced at least 20 kilograms of vegetables. Of 50 without automatic irrigation, 25 reached that level. Which statement accurately compares the groups?
+4
+80% of irrigated gardens reached the target, compared with 50% of other gardens.
+Half of all irrigated gardens reached the target.
+All gardens with irrigation reached the target.
+The gardens without irrigation had a higher success percentage.
+A
+Compute 56/70 = 80% and 25/50 = 50%.
+reading-writing
+information
+Inference with uncertainty
+Hard
+FRH005
+A new coating reduced heat absorbed by test panels under strong sunlight. When researchers tested the coating outdoors, results varied on cloudy days and in locations with heavy dust. Which claim is most justified?
+4
+The coating always performs equally well in every environment.
+The coating cannot reduce heat absorption.
+Its effectiveness may depend on environmental conditions.
+Cloud cover permanently damages every coated panel.
+C
+The differing outdoor results suggest performance changes with conditions.
+reading-writing
+information
+Experimental controls
+Medium
+FRH006
+To compare two fertilizers, researchers used identical pots, soil, water schedules, and plant species. They varied only the fertilizer applied. Why was this design useful?
+4
+It ensured all plants grew at exactly the same rate.
+It limited alternative explanations for differences in growth.
+It guaranteed neither fertilizer would affect the plants.
+It removed the need to measure plant growth.
+B
+Holding other conditions constant helps attribute growth differences to fertilizer choice.
+reading-writing
+information
+Comparing interpretations
+Hard
+FRH007
+A survey found that 65% of commuters at one train station preferred expanded evening service. A transit planner cautioned that passengers at other stations might have different schedules. Which statement best integrates the survey and the planner’s caution?
+4
+Most commuters everywhere prefer evening trains.
+The survey reflects preferences at one station and may not represent all commuters.
+The planner has proved the survey data were fabricated.
+Evening train service has no supporters.
+B
+The preference is measured at a single station and cannot automatically be generalized.
+reading-writing
+craft
+Words in context
+Medium
+FRH008
+The committee’s decision was *provisional*: members would reconsider it after the trial period ended. As used in the text, "provisional" most nearly means
+4
+temporary
+unanimous
+secret
+unnecessary
+A
+The decision is subject to review, making it temporary rather than final.
+reading-writing
+craft
+Function of a sentence
+Medium
+FRH009
+In an essay about city parks, an author notes that a single tree can provide shade, reduce surface temperatures, and offer habitat to birds. The author then argues for preserving trees during street renovations. What function does the example serve?
+4
+It presents reasons supporting the later recommendation.
+It argues that parks should be removed.
+It provides a detailed history of street design.
+It refutes the importance of shade.
+A
+The benefits of trees provide support for the proposal to preserve them.
+reading-writing
+craft
+Text structure
+Hard
+FRH010
+An article begins with an explanation widely used to account for a lake’s unusual color. It next presents observations inconsistent with that explanation, then offers a new hypothesis involving minerals. Which choice best describes the article’s structure?
+4
+A hypothesis followed by evidence that challenges it and a competing explanation
+A list of unrelated discoveries arranged alphabetically
+A description of minerals followed by a travel advertisement
+An argument that no new evidence should be collected
+A
+The article moves from an accepted explanation to contradictory evidence and a revised hypothesis.
+reading-writing
+craft
+Cross-text arguments
+Hard
+FRH011
+Text 1: Historian Ma argues that a decline in local pottery production reflected reduced demand for traditional household goods. Text 2: Historian Iqbal finds that pottery imports increased during the same period, suggesting that demand remained but consumers shifted suppliers. How does Iqbal’s interpretation differ from Ma’s?
+4
+Iqbal argues that pottery was never used in households.
+Iqbal attributes reduced local production to competition rather than declining overall demand.
+Iqbal agrees that consumers stopped buying pottery entirely.
+Iqbal argues that pottery imports fell sharply.
+B
+Rising imports imply buyers continued purchasing pottery but from other producers.
+reading-writing
+craft
+Words in context
+Medium
+FRH012
+Although the initial report seemed persuasive, later measurements *undermined* its main claim by revealing a major counting error. As used in the text, "undermined" most nearly means
+4
+weakened
+illustrated
+repeated
+expanded
+A
+A major counting error weakens the report’s central claim.
+reading-writing
+craft
+Rhetorical purpose
+Hard
+FRH013
+A researcher describing a new sound-recording method first discusses a limitation of older microphones: they cannot reliably capture very low frequencies. She then reports that her new device records those frequencies consistently. Why does she mention the older microphones?
+4
+To establish a problem the new device addresses
+To argue that sound cannot be measured
+To prove the new device cannot record low frequencies
+To recommend that all recordings be discarded
+A
+The older limitation sets up the advantage of the new method.
+reading-writing
+craft
+Contrasting perspectives
+Hard
+FRH014
+Text 1 describes rooftop gardens as a promising way to cool buildings in hot cities. Text 2 agrees that rooftop gardens can help but stresses that they require maintenance and may not suit every roof. Which statement would both authors most likely accept?
+4
+Rooftop gardens offer possible benefits but their use depends on circumstances.
+Every building must have a rooftop garden.
+Rooftop gardens cannot affect temperature.
+Maintenance is never required for rooftop plants.
+A
+Both recognize potential value, while Text 2 adds practical limitations.
+reading-writing
+expression
+Transitions
+Medium
+FRH015
+The initial measurements suggested that the metal expanded steadily as it warmed. ______, later tests showed that its expansion slowed sharply above a certain temperature. Which choice best completes the text?
+4
+For instance,
+However,
+Similarly,
+Therefore,
+B
+The later evidence contrasts with the expectation of steady expansion.
+reading-writing
+expression
+Rhetorical synthesis
+Medium
+FRH016
+A student notes: The Northvale Art Center began offering free weekend classes in 2022. Enrollment doubled in the following year. Organizers surveyed participants, and many cited cost as a barrier before the classes became free. The student wants to connect the policy change with a possible explanation for increased enrollment. Which sentence best accomplishes this goal?
+4
+The Northvale Art Center offers weekend classes.
+After the center introduced free weekend classes, enrollment doubled, consistent with survey responses indicating that cost had been a barrier.
+Enrollment doubled at the art center, which opened in 2022.
+Survey participants discussed art classes in many cities.
+B
+The sentence connects the free-class policy, increased enrollment, and survey evidence without claiming definitive causation.
+reading-writing
+expression
+Transitions
+Hard
+FRH017
+The trial’s first results appeared to support the original theory. ______, when the measurements were recalculated using corrected equipment settings, the apparent pattern disappeared. Which transition best reflects the relationship?
+4
+In particular,
+As a result,
+Nevertheless,
+Likewise,
+C
+The corrected results undercut the earlier apparent support.
+reading-writing
+expression
+Rhetorical synthesis
+Hard
+FRH018
+A student has these notes: Marine biologist Aria Sen studied three reef sites. Fish counts were highest where live coral covered more than 60% of the seafloor. Counts were lowest where coral cover was below 20%. The survey was observational, so Sen could not establish causation. The student wants to summarize the relationship while acknowledging the limitation. Which choice is best?
+4
+Aria Sen surveyed coral reefs and counted fish.
+Sites with more live coral had higher fish counts, although the observational survey could not establish that coral cover caused the difference.
+Every reef with coral has the same number of fish.
+The survey proved that fish increase coral growth.
+B
+The choice states the observed association and clearly notes the limits of the study.
+reading-writing
+expression
+Transitions
+Medium
+FRH019
+A map may preserve the names of roads that no longer exist. ______, historians can use maps to study how a city has changed over time. Which choice most logically completes the text?
+4
+Consequently,
+Nevertheless,
+In contrast,
+For example,
+A
+Because old maps retain past information, they can help historians examine change.
+reading-writing
+expression
+Rhetorical synthesis
+Hard
+FRH020
+A student has these notes: Composer Leona Voss wrote a suite inspired by seasonal weather. The first movement uses short, quick notes to suggest rain. The final movement uses sustained low notes to suggest winter winds. The student wants to contrast how two movements evoke weather. Which sentence best does so?
+4
+Voss wrote music inspired by seasonal weather.
+While the first movement evokes rain with short, quick notes, the final movement suggests winter winds with sustained low notes.
+The final movement contains low notes.
+Many composers use changes in tempo and pitch.
+B
+The sentence directly contrasts the specific musical techniques used in the two movements.
+reading-writing
+expression
+Transitions
+Hard
+FRH021
+Most of the newly discovered documents confirm the timeline described in earlier accounts. One letter, ______, places an important meeting two months later than previously believed. Which choice most logically completes the text?
+4
+in contrast
+for example
+as a result
+in addition
+A
+The letter differs from most documents and challenges the earlier timeline.
+reading-writing
+standard
+Subject-verb agreement
+Medium
+FRH022
+The results of the latest survey, together with the researcher’s notes, ______ available to the public. Which choice conforms to Standard English?
+4
+is
+was
+are
+has been
+C
+The plural subject "results" requires "are"; the phrase about notes does not change the subject.
+reading-writing
+standard
+Punctuation with nonessential clauses
+Medium
+FRH023
+The sculpture, ______ has become a popular meeting place. Which choice correctly completes the sentence?
+4
+which stands near the library,
+which stands near the library
+that stands near the library,
+that stands, near the library
+A
+The nonessential phrase is set off by commas; the supplied comma after the blank closes it.
+reading-writing
+standard
+Sentence boundaries
+Hard
+FRH024
+The first expedition reached the valley in June______ the second expedition did not arrive until September. Which choice correctly completes the sentence?
+4
+, however,
+; however,
+, however
+; however
+B
+A semicolon before "however" and a comma after it correctly link the independent clauses.
+reading-writing
+standard
+Modifiers
+Hard
+FRH025
+After examining the damaged manuscript, ______. Which choice completes the sentence without a dangling modifier?
+4
+several missing pages became obvious
+the age of the paper was surprising
+the archivist identified a missing section
+the manuscript was returned to storage
+C
+The person who examined the manuscript must be the subject after the introductory phrase.
+reading-writing
+standard
+Parallel structure
+Hard
+FRH026
+The internship requires participants to analyze samples, record results, and ______. Which choice maintains parallel structure?
+4
+writing brief reports
+to write brief reports
+write brief reports
+reports should be written
+C
+All three verbs should share the same form: analyze, record, and write.
+reading-writing
+standard
+Punctuation of introductory clauses
+Medium
+FRH027
+Although the samples appeared identical ______ researchers found important differences under a microscope. Which choice correctly completes the sentence?
+4
+,
+;
+:
+no punctuation
+A
+A comma separates the introductory dependent clause from the independent clause.

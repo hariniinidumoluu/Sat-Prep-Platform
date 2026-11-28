@@ -1,0 +1,351 @@
+reading-writing
+information
+Central ideas
+Easy
+FR1001
+In 2019, residents in a coastal town began collecting discarded fishing nets from nearby beaches. A local workshop now turns the collected nets into durable bags. The program reduces shoreline waste while providing paid training to young workers. What is the main idea of the text?
+4
+Fishing nets are difficult to manufacture.
+One program addresses litter while creating work opportunities.
+Most coastal towns depend on bag production.
+The workshop plans to stop using fishing nets.
+B
+The passage describes both the reduction of beach waste and paid training opportunities.
+reading-writing
+information
+Textual evidence
+Medium
+FR1002
+A botanist predicted that a plant with deeper roots would survive dry periods better than a similar plant with shallow roots. During a 30-day trial with limited water, the deep-rooted plants remained healthy for 24 days on average, compared with 16 days for the shallow-rooted plants. Which finding best supports the prediction?
+4
+Deep-rooted plants remained healthy longer under limited water.
+Both groups received water every day.
+The shallow-rooted plants had larger leaves.
+All plants were the same height at the start.
+A
+The longer period of healthy growth directly supports the prediction about drought survival.
+reading-writing
+information
+Inferences
+Medium
+FR1003
+The city added a shaded bench at each of twelve bus stops. A survey conducted afterward found that more older adults reported feeling comfortable waiting for the bus, although the number of bus routes had not changed. Which conclusion is best supported?
+4
+The benches increased the number of bus routes.
+Shade may have improved the waiting experience for some riders.
+Every rider prefers a shaded stop.
+Bus travel became faster after the benches were installed.
+B
+The survey links the comfort improvement to stops that gained shaded benches, not to route changes.
+reading-writing
+information
+Quantitative evidence
+Medium
+FR1004
+A teacher compared library visits in two semesters. In autumn, 120 students visited at least once; in spring, 165 did. Enrollment remained the same in both semesters. Which statement accurately describes the data?
+4
+Visits fell by 45 students.
+Exactly 165 additional students enrolled.
+45 more students visited at least once in spring.
+The number of library visits more than doubled.
+C
+Subtract 120 from 165 to obtain an increase of 45 students.
+reading-writing
+information
+Cross-text connections
+Hard
+FR1005
+Text 1: Researcher Lin argues that urban trees should be selected primarily for drought tolerance because water availability is becoming less predictable. Text 2: Researcher Patel agrees that drought tolerance matters but notes that tree canopy shape also affects how much shade a street receives. How would Patel most likely respond to Lin?
+4
+By rejecting drought tolerance as a consideration
+By agreeing that water needs matter while recommending an additional selection criterion
+By claiming canopy shape has no effect on shade
+By arguing that urban streets should not have trees
+B
+Patel accepts Lin’s concern about water while adding canopy shape as another important factor.
+reading-writing
+information
+Causal reasoning
+Medium
+FR1006
+An after-school program offered free transportation beginning in September. Attendance rose from 30 to 48 students per session on average. Organizers also introduced new workshops that same month. Which statement is best supported?
+4
+Transportation alone caused the entire increase.
+The increase cannot be explained by any change.
+Attendance rose, but the information does not isolate one cause.
+The new workshops reduced attendance.
+C
+Two changes occurred together, so the data do not establish which caused the attendance increase.
+reading-writing
+information
+Drawing conclusions
+Hard
+FR1007
+A researcher found that 80% of sampled coastal marshes with restored tidal flow supported more juvenile fish than before restoration. However, the remaining marshes showed little change, and the researcher noted differences in water quality. Which conclusion is most justified?
+4
+Restoring tidal flow always increases juvenile fish populations.
+Restoration was associated with improvement in most sampled marshes, though results varied.
+Water quality was identical across the marshes.
+Restoration harmed every marsh in the study.
+B
+The reported improvements occurred in most, but not all, sampled marshes.
+reading-writing
+craft
+Words in context
+Easy
+FR1008
+The director asked the volunteers to *maintain* the garden paths by removing weeds and repairing damaged stones. As used in the text, what does "maintain" most nearly mean?
+4
+Keep in good condition
+Measure precisely
+Replace entirely
+Make more expensive
+A
+Removing weeds and repairing stones keeps the paths in good condition.
+reading-writing
+craft
+Text structure
+Medium
+FR1009
+The first paragraph of an article describes a problem with conventional batteries. The second introduces a new material that may solve that problem. How is the article primarily organized?
+4
+An event followed by an unrelated anecdote
+A problem followed by a potential solution
+A claim followed by its complete rejection
+Two biographies presented in chronological order
+B
+The second paragraph proposes a possible answer to the problem established in the first.
+reading-writing
+craft
+Author purpose
+Medium
+FR1010
+Historian Ruiz describes how an old city map was produced, then explains why several streets on it are mislabeled. Why does Ruiz most likely discuss the map’s production?
+4
+To show that the map can never be studied
+To provide context for understanding the labeling errors
+To argue that current streets are identical to older ones
+To teach readers how to design a new map
+B
+Knowing the map’s production process helps readers understand how its errors arose.
+reading-writing
+craft
+Words in context
+Medium
+FR1011
+A series of small repairs helped *stabilize* the bridge, preventing its damaged sections from shifting during heavy winds. As used in the text, what does "stabilize" most nearly mean?
+4
+Decorate
+Make secure
+Enlarge
+Inspect
+B
+The repairs prevent movement, making the structure more secure.
+reading-writing
+craft
+Rhetorical purpose
+Hard
+FR1012
+A scientist begins a report by explaining a widely accepted theory of migration. She then presents measurements that do not fit the theory and proposes a revised explanation. What role does the accepted theory play in the report?
+4
+It provides a starting point that the new measurements challenge.
+It proves that the scientist’s measurements must be false.
+It supplies instructions for measuring migration.
+It serves as an unrelated historical detail.
+A
+The existing theory gives context for why the conflicting measurements matter.
+reading-writing
+craft
+Comparing arguments
+Hard
+FR1013
+Text 1 argues that converting vacant lots into community gardens is valuable because gardens provide fresh produce. Text 2 argues that such gardens also provide places where neighbors meet. Which statement best describes the relationship between the texts?
+4
+Text 2 denies that gardens can grow food.
+Text 2 presents an additional benefit of the same activity.
+Text 1 argues against converting vacant lots.
+Text 2 claims meeting neighbors is harmful.
+B
+The second text adds a social benefit rather than contradicting the first text.
+reading-writing
+craft
+Words in context
+Easy
+FR1014
+The museum hopes to *expand* its weekend hours from four hours to seven. As used in the text, what does "expand" most nearly mean?
+4
+Shorten
+Record
+Increase
+Cancel
+C
+Increasing the weekend hours from four to seven means expanding them.
+reading-writing
+expression
+Transitions
+Easy
+FR1015
+The river flooded several streets after the storm. ______, the town temporarily closed two bridges. Which choice completes the text with the most logical transition?
+4
+For example,
+As a result,
+Nevertheless,
+In contrast,
+B
+The bridge closures were a consequence of the flooding.
+reading-writing
+expression
+Transitions
+Medium
+FR1016
+Many early cameras required long exposure times. ______, contemporary digital cameras can capture sharp images in a fraction of a second. Which choice completes the text with the most logical transition?
+4
+Similarly,
+Consequently,
+In contrast,
+For instance,
+C
+The sentence contrasts early cameras with modern digital cameras.
+reading-writing
+expression
+Transitions
+Medium
+FR1017
+The first soil sample contained very little clay. ______, the second sample was composed of nearly half clay. Which transition best connects the sentences?
+4
+By comparison,
+For this reason,
+In addition,
+As a result,
+A
+The two samples are being directly compared.
+reading-writing
+expression
+Rhetorical synthesis
+Medium
+FR1018
+A student gathered these notes: The Eastfield Observatory opened in 1962. It was originally used to track weather balloons. In 1998, its equipment was replaced with a telescope. Today, local schools use it for astronomy lessons. The student wants to emphasize how the observatory’s purpose changed. Which choice best accomplishes this goal?
+4
+The Eastfield Observatory opened in 1962.
+The observatory once tracked weather balloons but now supports astronomy lessons for local schools.
+Local schools visit the Eastfield Observatory.
+The observatory received new equipment in 1998.
+B
+This choice contrasts the observatory’s original and present uses.
+reading-writing
+expression
+Rhetorical synthesis
+Medium
+FR1019
+A student has taken these notes: Artist Rina Das makes sculptures using discarded metal. Her sculpture "Tide" was completed in 2021. "Tide" includes pieces of old bicycle frames. It is displayed in a public plaza. The student wants to introduce "Tide" and describe what makes it unusual. Which choice best uses the notes?
+4
+Rina Das completed an artwork in 2021.
+An artwork is displayed in a public plaza.
+Rina Das’s 2021 sculpture "Tide" incorporates discarded bicycle frames.
+Many artists make sculptures of public places.
+C
+This choice names the work and highlights its distinctive recycled materials.
+reading-writing
+expression
+Transitions
+Hard
+FR1020
+A new sensor can detect small changes in water temperature. ______, its readings become unreliable in water containing high concentrations of salt. Which choice completes the text with the most logical transition?
+4
+For example,
+Therefore,
+Nevertheless,
+Similarly,
+C
+The second sentence introduces a limitation despite the sensor’s useful ability.
+reading-writing
+expression
+Rhetorical synthesis
+Hard
+FR1021
+A student has taken these notes: Researcher Mara Cole studied urban foxes in three neighborhoods. Foxes in the busiest neighborhood were most active at night. Foxes in the quietest neighborhood were active during daylight and nighttime. The researcher suggested that foxes may adjust their schedules around human activity. The student wants to support the researcher’s suggestion with a comparison. Which choice best accomplishes this goal?
+4
+Mara Cole studied foxes in three neighborhoods.
+While foxes in the busiest neighborhood were mostly nocturnal, those in the quietest were active during both day and night, suggesting a response to human activity.
+The quietest neighborhood contained foxes.
+Urban foxes can be observed at night.
+B
+The contrast between the busiest and quietest neighborhoods supports the suggested relationship.
+reading-writing
+standard
+Subject-verb agreement
+Easy
+FR1022
+The list of materials for the experiment ______ on the classroom wall. Which choice completes the text so that it conforms to Standard English?
+4
+are
+were
+is
+have been
+C
+The singular subject "list" takes the singular verb "is."
+reading-writing
+standard
+Punctuation
+Easy
+FR1023
+The robotics club meets every Wednesday______ its members are preparing for a spring competition. Which choice correctly joins the two independent clauses?
+4
+,
+;
+because
+and,
+B
+A semicolon can correctly join two closely related independent clauses.
+reading-writing
+standard
+Verb tense
+Medium
+FR1024
+By the time the train arrived at the station, the passengers ______ their bags. Which choice completes the text most logically?
+4
+pack
+will pack
+had packed
+are packing
+C
+The past perfect "had packed" indicates an action completed before another past event.
+reading-writing
+standard
+Possessive nouns
+Medium
+FR1025
+The two ______ designs were chosen for the final presentation. Which choice correctly expresses possession by two engineers?
+4
+engineer
+engineers
+engineers’
+engineer’s
+C
+The plural possessive "engineers’" shows that both engineers own the designs.
+reading-writing
+standard
+Sentence boundaries
+Hard
+FR1026
+The team evaluated several possible routes______ they selected the one with the fewest steep hills. Which choice correctly completes the text?
+4
+, they
+; then
+then
+and;
+B
+A semicolon followed by "then" correctly connects two independent clauses and indicates sequence.
+reading-writing
+standard
+Modifiers
+Hard
+FR1027
+Walking through the gallery, ______ caught Mira’s attention immediately. Which choice avoids a misplaced modifier?
+4
+the newest sculpture
+the bright colors of a painting
+Mira noticed a carved wooden screen
+a display of old photographs
+C
+The introductory phrase describes Mira, so the following subject must be Mira.

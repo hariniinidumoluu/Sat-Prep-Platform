@@ -1,0 +1,351 @@
+reading-writing
+information
+Central ideas
+Easy
+FRE001
+An environmental club collects food scraps from the school cafeteria and uses them to make compost. The compost is then added to the school garden, where students grow vegetables. What is the main purpose of the club’s project?
+4
+To replace the cafeteria with a garden
+To turn food waste into a useful garden material
+To eliminate all school activities
+To study the history of vegetables
+B
+The project converts food scraps into compost that supports the school garden.
+reading-writing
+information
+Detail interpretation
+Easy
+FRE002
+A library’s new reading room has 24 seats and is open from 9 a.m. to 5 p.m. on weekdays. Which statement is supported by the text?
+4
+The room has 24 seats.
+The room is open all night.
+The room is closed every weekday.
+The room has 50 seats.
+A
+The passage directly states that the room has 24 seats.
+reading-writing
+information
+Supporting evidence
+Easy
+FRE003
+To test a new fabric, engineers washed 20 samples 50 times each. None of the samples tore, although several faded slightly. Which finding best supports the fabric’s resistance to tearing?
+4
+Some samples faded.
+All samples were different colors.
+No samples tore after repeated washing.
+The engineers tested samples only once.
+C
+The absence of tears after 50 washes directly demonstrates resistance to tearing.
+reading-writing
+information
+Inferences
+Medium
+FRE004
+A small aquarium replaced its fluorescent lights with LEDs. Over the following month, the aquarium used less electricity while maintaining the same hours of operation. Which inference is most reasonable?
+4
+The aquarium closed earlier.
+Its lighting change may have contributed to lower electricity use.
+LEDs require no electricity.
+The aquarium doubled its number of tanks.
+B
+Electricity fell despite unchanged hours, consistent with the more efficient lights reducing use.
+reading-writing
+information
+Quantitative comparison
+Medium
+FRE005
+A club raised $480 during its first fundraiser and $620 during its second. How much more did it raise during the second event?
+4
+$120
+$140
+$160
+$220
+B
+Subtract 480 from 620 to get a difference of $140.
+reading-writing
+information
+Evidence and conclusions
+Medium
+FRE006
+Students sampled the water of a pond on four days. All four samples had a pH between 6.8 and 7.2. The students concluded that the pond’s pH stayed near neutral during the days tested. Which statement best assesses that conclusion?
+4
+It is supported for the sampled days.
+It proves the pond never changes pH.
+It cannot be supported because pH is not measurable.
+It proves the pond has no living organisms.
+A
+The measured values are near neutral for those four days, but not necessarily at all times.
+reading-writing
+information
+Comparing texts
+Medium
+FRE007
+Text 1 suggests that planting flowers near farms can attract bees that pollinate crops. Text 2 notes that some flowers attract bees more effectively than others. How does Text 2 relate to Text 1?
+4
+It rejects the role of bees in pollination.
+It adds a consideration about which flowers to plant.
+It argues that flowers cannot grow near farms.
+It changes the subject to farm machinery.
+B
+Text 2 qualifies the first suggestion by noting variation among flower species.
+reading-writing
+craft
+Words in context
+Easy
+FRE008
+The team tried to *restore* the damaged mural by carefully repainting missing sections. As used in the text, what does "restore" most nearly mean?
+4
+Return to an earlier condition
+Cover permanently
+Transport to another city
+Photograph repeatedly
+A
+Repainting the missing sections aims to return the mural to its earlier condition.
+reading-writing
+craft
+Author purpose
+Easy
+FRE009
+A writer lists the dates of major flood events before describing how engineers strengthened the riverbank. Why does the writer most likely include the dates?
+4
+To introduce the events that prompted the changes
+To explain how to calculate dates
+To compare two unrelated cities
+To suggest floods are impossible to predict
+A
+The flood history provides background for the engineering work.
+reading-writing
+craft
+Words in context
+Medium
+FRE010
+The committee chose a *practical* design that could be built using the materials already available. In this context, "practical" most nearly means
+4
+colorful
+feasible
+expensive
+temporary
+B
+A design that can be built with available materials is feasible.
+reading-writing
+craft
+Text structure
+Medium
+FRE011
+A passage first explains how an ancient instrument was used. It then describes how a modern device performs the same task more accurately. Which description best captures the structure?
+4
+A historical method followed by a modern comparison
+An argument followed by an unrelated joke
+A future prediction followed by a personal letter
+A problem followed by a list of biographies
+A
+The passage moves from an older method to a modern tool performing the same function.
+reading-writing
+craft
+Words in context
+Medium
+FRE012
+A geologist examined the *distinct* layers of rock, each of which had a different color and texture. As used in the text, "distinct" most nearly means
+4
+separate and recognizable
+identical
+hidden from view
+recently formed
+A
+The different colors and textures make the layers separate and recognizable.
+reading-writing
+craft
+Comparing viewpoints
+Medium
+FRE013
+Text 1 argues that public murals brighten otherwise plain walls. Text 2 argues that murals can also help residents learn about neighborhood history. The authors would most likely agree that murals
+4
+have no value outside museums
+can benefit communities
+should display only historical figures
+make all neighborhoods look the same
+B
+Both authors identify ways murals can benefit a community.
+reading-writing
+craft
+Purpose of an example
+Medium
+FRE014
+An article claims that some everyday inventions came from unexpected experiments. It describes a researcher noticing that a weak adhesive could be reused without leaving residue. Why does the author include this example?
+4
+To illustrate an unexpected discovery
+To prove all adhesives are weak
+To argue experiments cannot be repeated
+To list laboratory safety rules
+A
+The observation illustrates an unanticipated finding leading to a useful application.
+reading-writing
+expression
+Transitions
+Easy
+FRE015
+The restaurant was closed for renovations. ______, customers could not dine there that week. Which choice completes the text with the most logical transition?
+4
+As a result,
+On the other hand,
+For example,
+Similarly,
+A
+The closure causes customers to be unable to dine there.
+reading-writing
+expression
+Transitions
+Easy
+FRE016
+The first painting uses mostly cool blues and greens. ______, the second painting features reds and oranges. Which transition is most logical?
+4
+Therefore,
+By contrast,
+For instance,
+As a result,
+B
+The two color palettes are contrasted.
+reading-writing
+expression
+Rhetorical synthesis
+Easy
+FRE017
+A student has these notes: The Brookside Trail opened in 2020. It is three miles long. It passes a pond and a meadow. The student wants to describe what hikers can see. Which choice is best?
+4
+The Brookside Trail opened in 2020.
+The trail is three miles long.
+Hikers on the Brookside Trail can pass a pond and a meadow.
+The trail has a name and a date.
+C
+This choice identifies the scenery hikers encounter.
+reading-writing
+expression
+Transitions
+Medium
+FRE018
+The new water filter removes most visible sediment. ______, it does not remove every dissolved chemical. Which choice completes the text with the most logical transition?
+4
+In addition,
+For example,
+However,
+Consequently,
+C
+The second statement limits the benefit mentioned in the first.
+reading-writing
+expression
+Transitions
+Medium
+FRE019
+The theater added an afternoon performance to its schedule. ______, it began offering lower-priced tickets to students. Which choice best connects the ideas?
+4
+Similarly,
+In addition,
+In contrast,
+Nevertheless,
+B
+Both sentences describe additional actions the theater took.
+reading-writing
+expression
+Rhetorical synthesis
+Medium
+FRE020
+A student has these notes: Engineer Noel Park designed a low-cost rain gauge. The device is made from reused plastic containers. Schools use it to measure rainfall in science classes. The student wants to emphasize affordability and educational use. Which choice best achieves the goal?
+4
+Noel Park designed a rain gauge.
+The rain gauge is made of plastic.
+Park’s inexpensive rain gauge, made from reused containers, is used by schools for science lessons.
+Rainfall is measured using many different devices.
+C
+The sentence connects the gauge’s inexpensive materials to its classroom use.
+reading-writing
+expression
+Transitions
+Medium
+FRE021
+The mountain road has sharp turns and limited visibility. ______, drivers are advised to travel slowly during fog. Which choice completes the text with the most logical transition?
+4
+For this reason,
+Meanwhile,
+On the contrary,
+Nevertheless,
+A
+The road conditions explain the recommendation to slow down.
+reading-writing
+standard
+Verb agreement
+Easy
+FRE022
+Each of the three experiments ______ a different type of soil. Which choice conforms to Standard English?
+4
+use
+uses
+using
+have used
+B
+The singular subject "Each" requires the singular verb "uses."
+reading-writing
+standard
+Commas in a series
+Easy
+FRE023
+The workshop provides paper, pencils______ and rulers for participants. Which choice correctly completes the list?
+4
+,
+;
+:
+.
+A
+A comma separates "pencils" and "and rulers" in this list.
+reading-writing
+standard
+Pronoun reference
+Easy
+FRE024
+Mila and Jonah finished ______ science project before lunch. Which choice correctly completes the sentence?
+4
+their
+his
+its
+our
+A
+The project belongs to Mila and Jonah, so the plural possessive pronoun "their" is appropriate.
+reading-writing
+standard
+Sentence boundaries
+Medium
+FRE025
+The weather improved overnight______ the hikers resumed their trip at sunrise. Which choice correctly joins the two independent clauses?
+4
+,
+;
+because
+although
+B
+A semicolon correctly joins the two complete independent clauses.
+reading-writing
+standard
+Verb tense
+Medium
+FRE026
+Last spring, the city ______ a new bicycle path along the river. Which choice is correct?
+4
+build
+builds
+built
+building
+C
+"Last spring" signals a completed past action, requiring "built."
+reading-writing
+standard
+Possessives
+Medium
+FRE027
+The ______ notebooks were left on the laboratory counter. Which choice correctly indicates that the notebooks belong to several students?
+4
+student
+students
+student’s
+students’
+D
+The plural possessive "students’" means the notebooks belong to more than one student.
