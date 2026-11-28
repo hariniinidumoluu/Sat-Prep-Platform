@@ -1,0 +1,286 @@
+math
+algebra
+Linear equations
+Easy
+FM1001
+A museum sells student tickets for $7 each. A group spends $84 on student tickets. How many tickets did the group buy?
+4
+10
+11
+12
+14
+C
+Divide the total cost by the cost per ticket: 84 / 7 = 12.
+math
+advanced
+Evaluating functions
+Easy
+FM1002
+If f(x) = x² + 4x - 2, what is f(3)?
+4
+10
+13
+19
+25
+C
+Substitute 3: 3² + 4(3) - 2 = 9 + 12 - 2 = 19.
+math
+data
+Percentages
+Easy
+FM1003
+A jacket priced at $60 is discounted by 25%. What is the sale price?
+4
+$15
+$35
+$45
+$50
+C
+A 25% discount is $15, so the sale price is $60 - $15 = $45.
+math
+geometry
+Area of rectangles
+Easy
+FM1004
+A rectangular garden is 9 meters long and 6 meters wide. What is its area in square meters?
+4
+15
+30
+54
+90
+C
+The area is length times width: 9 × 6 = 54.
+math
+algebra
+Linear inequalities
+Easy
+FM1005
+Which value of x satisfies 5x - 4 > 16?
+4
+3
+4
+5
+0
+C
+Solve 5x > 20, so x > 4. Among the choices, only 5 works.
+math
+data
+Ratios
+Easy
+FM1006
+A paint mixture uses 2 cups of yellow paint for every 5 cups of white paint. If 15 cups of white paint are used, how many cups of yellow paint are needed?
+4
+4
+5
+6
+10
+C
+White paint is tripled from 5 to 15, so yellow paint is also tripled: 2 × 3 = 6.
+math
+geometry
+Triangles
+Easy
+FM1007
+A triangle has angles measuring 38° and 72°. What is the measure of the third angle?
+4
+60°
+70°
+80°
+110°
+B
+Triangle angles sum to 180°, so 180 - 38 - 72 = 70°.
+math
+algebra
+Systems of equations
+Medium
+FM1008
+The equations x + y = 17 and x - y = 5 are both true. What is x?
+4
+6
+9
+11
+12
+C
+Add the equations: 2x = 22, giving x = 11.
+math
+advanced
+Factoring quadratics
+Medium
+FM1009
+For what value of x is x² - 9x + 20 = 0?
+4
+2
+3
+4
+6
+C
+Factor as (x - 4)(x - 5) = 0. Of the choices, x = 4 is a root.
+math
+data
+Mean
+Medium
+FM1010
+Four quiz scores are 72, 84, 90, and 94. What is their mean?
+4
+82
+84
+85
+88
+C
+The total is 340, and 340 / 4 = 85.
+math
+geometry
+Circle circumference
+Medium
+FM1011
+The diameter of a circular fountain is 14 feet. What is its circumference, in feet?
+4
+7π
+14π
+28π
+49π
+B
+Circumference equals π times diameter, so C = 14π.
+math
+algebra
+Linear modeling
+Medium
+FM1012
+A streaming service charges a one-time setup fee of $18 plus $9 per month. What is the total cost for 7 months?
+4
+$63
+$72
+$81
+$90
+C
+The total is 18 + 9(7) = 81 dollars.
+math
+advanced
+Exponent rules
+Medium
+FM1013
+If 2^(x+1) = 32, what is x?
+4
+3
+4
+5
+6
+B
+Since 32 = 2^5, x + 1 = 5 and x = 4.
+math
+data
+Probability
+Medium
+FM1014
+A bag contains 4 blue, 3 red, and 5 green beads. One bead is chosen at random. What is the probability it is red?
+4
+1/3
+1/4
+3/8
+3/5
+B
+There are 12 beads total and 3 red, so the probability is 3/12 = 1/4.
+math
+geometry
+Pythagorean theorem
+Medium
+FM1015
+A right triangle has legs of lengths 9 and 12. What is the length of its hypotenuse?
+4
+13
+14
+15
+21
+C
+Use a² + b² = c²: 9² + 12² = 225, so c = 15.
+math
+advanced
+Quadratic vertex
+Medium
+FM1016
+For g(x) = (x - 4)² + 7, what is the minimum value of g(x)?
+4
+3
+4
+7
+11
+C
+The squared term is at least zero; its minimum occurs at x = 4, giving g(x) = 7.
+math
+algebra
+Slope
+Medium
+FM1017
+A line passes through (2, 5) and (8, 17). What is its slope?
+4
+1/2
+2
+3
+6
+B
+Slope = (17 - 5)/(8 - 2) = 12/6 = 2.
+math
+advanced
+Rational equations
+Hard
+FM1018
+For x ≠ 2, if (x² - 4)/(x - 2) = 11, what is x?
+4
+7
+9
+11
+13
+B
+Factor the numerator: (x - 2)(x + 2). Then x + 2 = 11, so x = 9.
+math
+geometry
+Similar triangles
+Hard
+FM1019
+Two similar triangles have corresponding side lengths 6 and 15. The smaller triangle has area 24 square units. What is the area of the larger triangle?
+4
+60
+96
+120
+150
+D
+The length scale factor is 15/6 = 2.5. Areas scale by its square: 24(2.5)² = 150.
+math
+data
+Weighted averages
+Hard
+FM1020
+In a class, 12 students average 78 points and 8 students average 93 points. What is the mean score for all 20 students?
+4
+82
+83
+84
+87
+C
+The total is 12(78) + 8(93) = 1680. Divide by 20 to get 84.
+math
+algebra
+Systems with parameters
+Hard
+FM1021
+For what value of k do the lines y = 3x + 7 and 2y = 6x + k represent the same line?
+4
+7
+10
+14
+21
+C
+Multiply the first equation by 2: 2y = 6x + 14. Thus k = 14.
+math
+advanced
+Completing the square
+Hard
+FM1022
+The quadratic x² - 10x + c has a minimum value of -9. What is c?
+4
+9
+16
+25
+34
+B
+Complete the square: x² - 10x + c = (x - 5)² + c - 25. Set c - 25 = -9 to obtain c = 16.

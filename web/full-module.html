@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>{{TITLE}}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/style.css">
+    </head>
+    <body>
+        <main>
+            <h1>{{TITLE}}</h1>
+            <p>Untimed · {{COUNT}} questions</p>
+            <p>Review all answers before submitting this module.</p>
+            <form action="/full-submit" method="POST">
+                <input type="hidden" name="username" value="{{USERNAME}}">
+                <input type="hidden" name="attemptDate" value="{{DATE}}">
+                <input type="hidden" name="stage" value="{{STAGE}}">
+
+                <!-- CONTENT -->
+
+                <button type="submit">Submit Module</button>
+            </form>
+
+            <p> <a href="/full-test">Back to Test Menu</a></p>
+        </main>
+    </body>
+</html>

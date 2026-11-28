@@ -1,0 +1,286 @@
+math
+algebra
+One-step equations
+Easy
+FME001
+A number multiplied by 6 is 90. What is the number?
+4
+12
+14
+15
+18
+C
+Divide 90 by 6 to obtain 15.
+math
+data
+Unit rates
+Easy
+FME002
+A cyclist travels 36 miles in 3 hours at a constant speed. What is the speed in miles per hour?
+4
+9
+12
+18
+24
+B
+Speed is distance divided by time: 36 / 3 = 12.
+math
+geometry
+Perimeter
+Easy
+FME003
+A square has a side length of 11 centimeters. What is its perimeter?
+4
+22
+33
+44
+121
+C
+Multiply the side length by 4: 4(11) = 44 centimeters.
+math
+advanced
+Evaluate an expression
+Easy
+FME004
+What is the value of 3a² - 2 when a = 4?
+4
+34
+40
+46
+142
+C
+Substitute 4: 3(16) - 2 = 46.
+math
+algebra
+Solving equations
+Easy
+FME005
+Solve 4x + 9 = 37 for x.
+4
+6
+7
+8
+11
+B
+Subtract 9 to get 4x = 28, then divide by 4: x = 7.
+math
+data
+Percent of a number
+Easy
+FME006
+A survey finds that 40% of 150 respondents prefer tea. How many respondents prefer tea?
+4
+40
+50
+60
+90
+C
+Multiply 150 by 0.40 to get 60.
+math
+geometry
+Circle radius
+Easy
+FME007
+A circle has diameter 18 centimeters. What is its radius?
+4
+6
+9
+18
+36
+B
+The radius is half the diameter: 18 / 2 = 9.
+math
+algebra
+Interpreting slope
+Easy
+FME008
+A taxi fare is modeled by C = 4 + 2m, where m is miles traveled. What does the 2 represent?
+4
+A $2 starting fee
+A $2 charge per mile
+The number of passengers
+The total cost of a 2-mile ride
+B
+The coefficient of m gives the cost added for each mile: $2 per mile.
+math
+advanced
+Exponents
+Easy
+FME009
+What is the value of 5³ / 5²?
+4
+1
+5
+25
+125
+B
+Subtract exponents when dividing equal bases: 5^(3-2) = 5.
+math
+data
+Median
+Easy
+FME010
+What is the median of 3, 5, 8, 12, and 17?
+4
+5
+8
+9
+12
+B
+The five values are ordered. The middle value is 8.
+math
+geometry
+Rectangle perimeter
+Medium
+FME011
+A rectangle has perimeter 50 inches and length 15 inches. What is its width?
+4
+5
+10
+20
+35
+B
+Since 2(15 + w) = 50, 15 + w = 25 and w = 10.
+math
+algebra
+Solving linear systems
+Medium
+FME012
+If 2x + y = 16 and y = x + 1, what is x?
+4
+3
+4
+5
+6
+C
+Substitute y = x + 1: 3x + 1 = 16, so x = 5.
+math
+advanced
+Quadratic roots
+Medium
+FME013
+Which value is a solution to x² - 7x + 12 = 0?
+4
+1
+2
+3
+6
+C
+Factor as (x - 3)(x - 4) = 0; 3 is a listed root.
+math
+data
+Linear trend
+Medium
+FME014
+A tank initially holds 90 liters and loses 6 liters per minute. How much water remains after 8 minutes?
+4
+36
+42
+48
+54
+B
+Compute 90 - 6(8) = 42 liters.
+math
+geometry
+Volume of prisms
+Medium
+FME015
+A rectangular box measures 4 by 6 by 9 centimeters. What is its volume in cubic centimeters?
+4
+19
+54
+108
+216
+D
+Multiply the three dimensions: 4 × 6 × 9 = 216.
+math
+advanced
+Functions and input
+Medium
+FME016
+The function h(t) = 5t - 13 gives the temperature at time t. For what value of t is h(t) = 22?
+4
+5
+7
+9
+11
+B
+Solve 5t - 13 = 22: 5t = 35, so t = 7.
+math
+algebra
+Rewriting formulas
+Medium
+FME017
+The equation A = (1/2)bh gives the area of a triangle. Which expression gives h in terms of A and b?
+4
+A/(2b)
+2A/b
+Ab/2
+b/(2A)
+B
+Multiply both sides by 2, then divide by b: h = 2A/b.
+math
+data
+Proportional relationships
+Medium
+FME018
+A recipe makes 18 muffins using 3 cups of flour. How many cups of flour are needed for 30 muffins at the same rate?
+4
+4
+5
+6
+7
+B
+The rate is 3/18 = 1/6 cup per muffin; 30 × 1/6 = 5 cups.
+math
+geometry
+Special right triangles
+Medium
+FME019
+In a 45°-45°-90° triangle, a leg is 7 units long. What is the hypotenuse?
+4
+7
+7√2
+14
+14√2
+B
+The hypotenuse of a 45°-45°-90° triangle equals a leg times √2.
+math
+advanced
+Factoring differences of squares
+Medium
+FME020
+Which expression is equivalent to 9x² - 16?
+4
+(3x - 4)²
+(9x - 4)(x + 4)
+(3x - 4)(3x + 4)
+(3x - 8)(3x + 2)
+C
+This is a difference of squares: (3x)² - 4² = (3x - 4)(3x + 4).
+math
+algebra
+Slope-intercept form
+Medium
+FME021
+A line has slope -3 and passes through (0, 8). Which equation represents the line?
+4
+y = -3x - 8
+y = 3x + 8
+y = -3x + 8
+y = 8x - 3
+C
+In y = mx + b, m = -3 and the y-intercept is 8.
+math
+data
+Probability with replacement
+Medium
+FME022
+A box has 5 silver pens and 3 gold pens. One pen is chosen at random, returned, and then another is chosen. What is the probability both pens are gold?
+4
+3/8
+9/64
+3/28
+1/4
+B
+With replacement, the events are independent: (3/8)(3/8) = 9/64.

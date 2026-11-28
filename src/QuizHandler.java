@@ -1,11 +1,13 @@
 import java.io.*;
-import java.time.LocalDateTime;
+import java.time.*;
 import java.time.format.DateTimeParseException;
 import java.util.*;
-
+/**
+ * Handles diagnostic, topic practice, and targeted practice quizzes for all subjects.
+ */
 public class QuizHandler {
    /**
-    * Lets both subjects use the same quiz code.
+    * Opens the correct quiz page based on what the student selects.
     */
     public static void handle(String path, String requestPath, Subject subject, PrintWriter output) throws IOException {
         if (path.equals("/diagnostic")) {
@@ -17,7 +19,8 @@ public class QuizHandler {
         }
     }
     /**
-     * Loads the selected bank and checks its topics and question IDs.
+     * Loads questions from the correct bank for the selected quiz.
+     * Checks for invalid topics and duplicate IDs before using them.
      */
     private static ArrayList<Question> loadQuestions(Subject subject, String mode) throws IOException {
         String filePath;
@@ -51,7 +54,8 @@ public class QuizHandler {
         return questions;
     }
     /**
-     * Finds matching questions and opens the quiz menu or selected quiz.
+     * Finds questions for the selected topics.
+     * Shows the available quizzes or opens the quiz the student chooses. 
      */
     private static void showPractice(String path, String requestPath, 
                 Subject subject, PrintWriter output) throws IOException {
@@ -98,7 +102,7 @@ public class QuizHandler {
         showQuiz(subject, mode, selected, title + " - Quiz " + quizNumber, output);
     }
     /**
-     * Checks that the selected topics belong to this subject.
+     * Makes sure the selected topics are valid for the subject.
      */
     private static boolean validTopics(Subject subject, String topics) {
         if (topics.isEmpty()) {
@@ -112,7 +116,7 @@ public class QuizHandler {
         return true;
     }
     /**
-     * Adds another quiz if there are questions left over.
+     * Calculates how many quizzes are needed when each quiz has up to 10 questions.
      */
     private static int getQuizCount(int total) {
         int quizCount = total / 10;
@@ -122,7 +126,7 @@ public class QuizHandler {
         return quizCount;
     }
     /**
-     * Gives each group of up to 10 questions its own link. 
+     * Displays links to the available practice quizzes.
      */
     private static void showQuizMenu(Subject subject, String topics, boolean targeted, int total, String title, PrintWriter output) throws IOException {
         SubjectHandler.showTemplatePart(subject, title, true, output);
@@ -150,7 +154,7 @@ public class QuizHandler {
         SubjectHandler.showTemplatePart(subject, title, false, output);
     }
     /**
-     * Keeps separate quizzes from using the same questions.
+     * Keeps different quiz groups from repeating the same questions.
      */
     private static ArrayList<Question> selectPractice(ArrayList<Question> matching, int quizNumber) {
         ArrayList<Question> selected = new ArrayList<>();
@@ -165,9 +169,10 @@ public class QuizHandler {
         return selected;
     }
     /**
-     * Includes the question IDs so grading checks the questions shown.
+     * Displays the questions in an HTML format.
+     * Includes the question IDs and attempt information for grading.
      */
-    private static void showQuiz(Subject subject, String mode, ArrayList<Question> questions, String title, PrintWriter output) throws IOException{
+    public static void showQuiz(Subject subject, String mode, ArrayList<Question> questions, String title, PrintWriter output) throws IOException{
         SubjectHandler.showTemplatePart(subject, title, true, output);
         if (questions.isEmpty()) {
             output.println("<p>No questions available yet.</p>");
@@ -194,9 +199,10 @@ public class QuizHandler {
         SubjectHandler.showTemplatePart(subject, title, false, output);
     }
     /**
-     * Uses the choices array so questions can have different choice counts.
+     * Displays a question with its answer choices.
+     * Uses the choices array so questions can have different numbers of options.
      */
-    private static void showQuestion(Question question, PrintWriter output) {
+    public static void showQuestion(Question question, PrintWriter output) {
         output.println("<fieldset>");
         output.println("<legend>" + SubjectHandler.escape(question.getId()) + "</legend>");
         output.println("<p>" + SubjectHandler.escape(question.getText()) + "</p>");
@@ -212,7 +218,8 @@ public class QuizHandler {
         output.println("</fieldset><br>");
     }
     /**
-     * Checks answers using the key stored in the question bank.
+     * Grades the submitted questions and calculates the student's score.
+     * Checks the profile before saving so results go to the correct student.
      */
     private static void showResults(String requestPath, Subject subject, PrintWriter output) throws IOException {
         String username = SubjectHandler.getParameter(requestPath, "username");
@@ -278,9 +285,10 @@ public class QuizHandler {
         SubjectHandler.showTemplatePart(subject, title, false, output);
     }
     /**
-     * Shows the question again so the explanation makes sense.
+     * Shows the question, whether the answer was correct, and its explanation.
+     * Helps students review what they missed after finishing a quiz.
      */
-    private static void showFeedback(Question question, boolean correct, PrintWriter output) {
+    public static void showFeedback(Question question, boolean correct, PrintWriter output) {
         output.println("<h2>" + SubjectHandler.escape(question.getId()) + "</h2>");
         output.println("<p>" + SubjectHandler.escape(question.getText()) + "</p>");
         if (correct) {
@@ -295,9 +303,10 @@ public class QuizHandler {
         output.println("<p>" + SubjectHandler.escape(question.getExplanation()) + "</p>");
     }
     /**
-     * Finds where the topic's score belongs in the array.
+     * Finds the position of a topic in the subject's topic list to keep 
+     * track of scores for each topic.
      */
-    private static int findTopic(Subject subject, String code) {
+    public static int findTopic(Subject subject, String code) {
         String[] codes = subject.getTopicCodes();
         for (int i = 0; i < codes.length; i++) {
             if (codes[i].equals(code)) {
@@ -309,7 +318,7 @@ public class QuizHandler {
     /**
      * Recommends more practice for topics with missed questions.
      */
-    private static void showPerformance(Subject subject, int[] correct, int[] totals, PrintWriter output) {
+    public static void showPerformance(Subject subject, int[] correct, int[] totals, PrintWriter output) {
         String weakTopics = "";
         String[] codes = subject.getTopicCodes();
         String[] names = subject.getTopicNames();
@@ -341,7 +350,7 @@ public class QuizHandler {
         }
     }
    /**
-    * Checks whole codes so similar question IDs do not get mixed up.
+    * Checks exact topic or question IDs so similar codes do not get mixed up.
     */
     private static boolean containsCode(String list, String code) {
         for (String item : list.split(",")) {
@@ -352,9 +361,9 @@ public class QuizHandler {
         return false;
     }
     /**
-     * Includes the subject, quiz type, and question IDs when answers are submitted.
+     * Adds hidden information to the form so it gets submitted with the answers.
      */
-    private static void hiddenField(String name, String value, PrintWriter output) {
+    public static void hiddenField(String name, String value, PrintWriter output) {
         output.println("<input type=\"hidden\" name=\""
             + SubjectHandler.escape(name) + "\" value=\""
             + SubjectHandler.escape(value) + "\">");

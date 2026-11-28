@@ -1,8 +1,8 @@
 import java.io.*;
 import java.net.*;
 /**
- * Runs the SAT Prep server and displays the website.
- * Uses the SubjectHandler to handle the subject pages and quizzes.
+ * Runs the SAT Prep website using a Java server.
+ * Handles browser requests and sends back HTML or CSS pages.
  */
 public class SatServer {
     public static void main(String[] args) {
@@ -11,7 +11,6 @@ public class SatServer {
             IO.println("SAT SERVER OPENED PORT 8080");
             while (true) {
                 Socket client = server.accept();
-                IO.println("Browser connected");
                 try (client) {
                     client.setSoTimeout(5000);
                     BufferedReader input = new BufferedReader(new InputStreamReader(client.getInputStream()));
@@ -27,7 +26,11 @@ public class SatServer {
                         }
                         line = input.readLine();
                     }
-                    if (requestLine != null && requestLine.startsWith("POST /check ")) {
+                    // Reads submitted form data so the correct handler can process it.
+                    if (requestLine != null
+                            && (requestLine.startsWith("POST /check")
+                            || requestLine.startsWith("POST /full-start")
+                            || requestLine.startsWith("POST /full-submit"))) {
                         String body = "";
                         for (int i = 0; i < contentLength; i++) {
                             int character = input.read();
@@ -35,9 +38,14 @@ public class SatServer {
                                 throw new IOException("Incomplete quiz submission.");
                             }
                             body += (char) character;
+                        } 
+                        String submittedPath = requestLine.split(" ")[1];
+                        
+                        if (submittedPath.equals("/check")) {
+                            requestLine = "GET /check?" + body + " HTTP/1.1";
+                        } else {
+                            requestLine = "POST " + submittedPath + "?" + body + " HTTP/1.1";
                         }
-                        // Passes the submitted data to the existing handlers.
-                        requestLine = "GET /check?" + body + " HTTP/1.1";
                     }
                     PrintWriter output = new PrintWriter(client.getOutputStream(), true);
                     if (requestLine != null && requestLine.startsWith("GET /style.css ")) {
@@ -78,17 +86,19 @@ public class SatServer {
         }
     }
     /**
-     * Handles profile selection before opening the usual website pages.
+     * Handles profile selection and sends requests to the correct handler.
+     * Clears the current test when a student switches profiles.
      */
     private static void showRequestedPage(String requestLine, PrintWriter output) throws IOException {
         String[] parts = requestLine.split(" ");
-        if (parts.length < 2 || !parts[0].equals("GET")) {
+        if (parts.length < 2 || (!parts[0].equals("GET") && !parts[0].equals("POST"))) {
             output.println("<p>Invalid request.</p>");
             return;
         }
         String requestPath = parts[1];
         String path = requestPath.split("\\?", 2)[0];
         if (path.equals("/switch-profile")) {
+            AdaptiveTestHandler.clear();
             StudentProfile.clear();
             showPage("web/profile.html", "", output);
             return;
@@ -99,6 +109,7 @@ public class SatServer {
                 showPage("web/profile.html", "Use 3-20 letters, numbers, or underscores.", output);
                 return;
             }
+            AdaptiveTestHandler.clear();
             showPage("web/index.html", "", output);
             return;
         }
@@ -106,6 +117,9 @@ public class SatServer {
             showPage("web/profile.html", "", output);
             return;
         }
+        if (AdaptiveTestHandler.handle(requestLine, output)) {
+            return;
+        } 
         if (SubjectHandler.handle(requestLine, output)) {
             return;
         }

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Full-Length SAT Practice</title>
+        <link rel="stylesheet" href="/style.css">
+    </head>
+    <body>
+        <main>
+            <a class="button" href="/">&larr; Back to Dashboard</a>
+            <h1>Full-Length Adaptive SAT Practice</h1>
+            <section>
+                <h2>Complete 98 questions at your own pace.</h2>
+                <ul>
+                    <li>Reading &amp; Writing: two modules of 27 questions.</li>
+                    <li>Math: two modules of 22 questions.</li>
+                    <li>No time limit.</li>
+                </ul>
+                <p>
+                    Your Module 1 score determines whether you receive
+                    an easier or harder Module 2 for that subject.
+                </p>
+
+                <p>
+                    Review your answers before submitting each module.
+                    Submitted modules cannot be changed.
+                    Results and explanations appear after all four modules.
+                </p>
+
+                <p>Keep the server running and use the same profile until you finish.</p>
+            </section>
+
+            <section>
+                <p>Starting a new test replaces your current attempt.</p>
+                <form action="/full-start" method="POST">
+                    <input type="hidden" name="username" value="{{USERNAME}}">
+                    <button type="submit">Start New Test</button>
+                </form>
+
+                <p>
+                    <a class="button" href="/full-module"> Continue Current Test</a>
+                </p>
+            </section>
+        </main>
+    </body>
+</html>
